@@ -1,0 +1,87 @@
+/* RELATED INFOGRAPHIC COVER 800x421*/
+
+.related-graphic .left {background-image: url("https://multimedia.scmp.com/news/china/article/2176135/shenzhen-hongkong/img/cover.jpg");}
+
+a,a:active,a:visited{text-decoration:none;color:#993333}a:hover{color:#C13B2E;text-decoration:underline;opacity:.6}
+
+.buildings {
+    position: relative;
+    background-color: #cfcfcf;
+}
+.years {
+    position: absolute;
+    width: 100%;
+    max-width: 1200px;
+    display: block;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, 0);
+    opacity: 0
+}
+.years.fade-in {opacity: 1}
+.years.fade-out {opacity: 0}
+
+.ipos {position: relative;}
+.ipoYears {
+    position: absolute;
+    width: 100%;
+    max-width: 960px;
+    display: block;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, 0);
+    opacity: 0
+}
+.ipoYears.fade-in {opacity: 1}
+
+.buildings-height-svg {
+    width: 1200px;
+}
+
+.max425 {
+    width: 100%;
+    max-width: 425px;
+    margin: 0 auto
+}
+.max520 {
+    width: 100%;
+    max-width: 520px;
+    margin: 0 auto
+}
+.max770 {
+    width: 100%;
+    max-width: 770px;
+    margin: 0 auto
+}
+
+#gdp {margin-bottom: -160px}
+
+.clear25 {height: 25px}
+.clear50 {height: 50px}
+
+/*------------------------- | KEYFRAMES | -----------------------------*/
+
+
+
+
+
+/*------------------------- | MEDIA QUERIES | -----------------------------*/
+
+@media only screen and (max-width: 1200px){}
+
+@media only screen and (max-width:960px) {}
+
+@media only screen and (max-width:770px) {
+    .show-desktop {display: none}
+    .show-tablet{display:block}
+    #gdp {margin-bottom: -120px}
+}
+
+@media only screen and (max-width:500px) {
+    .show-desktop {display: none}
+    .show-tablet{display:none}
+    .show-mobile {display: block}
+    #gdp {margin-bottom: 10px}
+}
+
+@media only screen and (max-width:320px) {}

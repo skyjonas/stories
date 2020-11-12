@@ -1,0 +1,466 @@
+ (function () {
+  	// Get cookie function
+  	function getCookie(cname) {
+        var name = cname + "=";
+        var decodedCookie = decodeURIComponent(document.cookie);
+        var ca = decodedCookie.split(';');
+        for (var i = 0; i <ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') {
+              c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
+        }
+        return "";
+    }  
+
+    const pageUrl = [location.protocol, '//', location.host, location.pathname].join('')
+    const paLoginUrl = 'https://account.scmp.com/login?callback_url_signin=' + encodeURIComponent('/centralize/signin') + '&callback_url_register=' + encodeURIComponent('/centralize/register')  + '&destination=' + encodeURIComponent(pageUrl)
+
+    function pickBy(object) {
+        const obj = {};
+        for (const key in object) {
+            if (object[key]) {
+                obj[key] = object[key];
+            }
+        }
+        return obj;
+    }
+
+    function pushDataLayerSubscribeVariables (data) {
+      // Trim out all the null property value from data vars
+      const trimmedData = pickBy(data, (v) => {
+        return v !== null && v !== undefined
+      })
+      window.dataLayer = window.dataLayer || []
+      window.dataLayer.push({ subscribe: trimmedData })
+    }
+
+    /* add tracking */
+    function pushGaEvent ({ category, action, label, value }) {
+      window.dataLayer = window.dataLayer || []
+      window.dataLayer.push({
+        event: "tracking",
+        tracking: {
+          category: `${category}`,
+          action: `${action}`,
+          label: `${label}`,
+          // It won't send out the value when it is undefined
+          value,
+        },
+      })
+    }
+ 
+    tp = window["tp"] || [];
+
+    /* Checkout related */
+    /**
+     * Event properties
+     *
+     * chargeAmount - amount of purchase
+     * chargeCurrency
+     * uid
+     * email
+     * expires
+     * rid
+     * startedAt
+     * termConversionId
+     * termId
+     * promotionId
+     * token_list
+     * cookie_domain
+     * user_token
+     *
+     */
+    function onCheckoutComplete(data) {
+    }
+
+    function onCheckoutExternalEvent() {
+    }
+
+    function onCheckoutClose(event) {
+        /* Default behavior is to refresh the page on successful checkout */
+        if (event && event.state == "checkoutCompleted") {
+            // location.reload();
+        }
+    }
+
+    function onCheckoutCancel() {
+    }
+
+    function onCheckoutError() {
+    }
+
+    function onCheckoutSubmitPayment() {
+    }
+
+    /* Meter callback */
+    function onMeterExpired() {
+  
+    }
+
+    /* Meter callback */
+    function onMeterActive() {
+
+    }
+
+    /* Callback executed when a user must login */
+    function onLoginRequired() {
+      // this is a reference implementation only
+      // your own custom login/registration implementation would
+      // need to return the tinypass-compatible userRef inside the callback
+
+      // mysite.showLoginRegistration(function (tinypassUserRef)
+      // tp.push(["setUserRef", tinypassUserRef]); // tp.offer.startCheckout(params); // }
+      // this will prevent the tinypass error screen from displaying
+
+      return false;
+    }
+
+    /* Callback executed after a tinypassAccounts login */
+    function onLoginSuccess() {
+    }
+
+    /* Callback executed after an experience executed successfully */
+    function onExperienceExecute(event) {
+      const showOfferEvent = _get(event, 'result.events', []).find((_) =>
+      _.eventType === 'showOffer' && _.eventParams.displayMode === 'inline')
+
+      const events = event.result.events || []
+
+      const experienceExecuteEvent = events.find((_) =>
+        _.eventType === 'experienceExecute')
+      const splitTestId = experienceExecuteEvent.eventExecutionContext.splitTests[0].variantId || null
+      if (splitTestId) {
+        pushDataLayerSubscribeVariables({ experiment: splitTestId })
+      }
+
+      if (tp.customVariables.ip_access_user) {
+        const clientName = tp.customVariables.ip_access_client || null
+        if (clientName) {
+          pushDataLayerSubscribeVariables({ ipClientName: clientName })
+        }
+      }
+    }
+
+    /* Callback executed if experience execution has been failed */
+    function onExperienceExecutionFailed(event) {
+    }
+
+    /* Callback executed if external checkout has been completed successfully */
+    function onExternalCheckoutComplete(event) {
+        /* Default behavior is to refresh the page on successful checkout */
+        // location.reload();
+    }
+  
+    
+    /* set JWT */
+  	if (getCookie("scmp_pat").length > 0) {
+      tp.push(['setExternalJWT', getCookie("scmp_pat")])
+    }
+  
+  	/* set path */
+    tp.push(['setPageURL', pageUrl])
+
+    /* set subscribe url */
+    tp.push(['setCustomVariable', 'subscribeUrl', 'https://subscribe.scmp.com/?destination=' + encodeURIComponent(pageUrl)])
+    
+    /* set login url */
+    tp.push(['setCustomVariable', 'loginUrl', paLoginUrl])
+
+    tp.push(["setAid", '4YRl5Ft4pu']);
+    tp.push(["setEndpoint", 'https://buy.tinypass.com/api/v3']);
+    tp.push(["setUseTinypassAccounts", false]);
+    tp.push(["setUsePianoIdUserProvider", false ]);
+    tp.push(["setUsePianoIdLiteUserProvider", true ]);
+
+    /* checkout related events */
+    tp.push(["addHandler", "checkoutComplete", onCheckoutComplete]);
+    tp.push(["addHandler", "checkoutClose", onCheckoutClose]);
+    tp.push(["addHandler", "checkoutCustomEvent", onCheckoutExternalEvent]);
+    tp.push(["addHandler", "checkoutCancel", onCheckoutCancel]);
+    tp.push(["addHandler", "checkoutError", onCheckoutError]);
+    tp.push(["addHandler", "checkoutSubmitPayment", onCheckoutSubmitPayment]);
+
+    /* user login events */
+    tp.push(["addHandler", "loginRequired", onLoginRequired]);
+    tp.push(["addHandler", "loginSuccess", onLoginSuccess]);
+
+    /* meter related */
+    tp.push(["addHandler", "meterExpired", onMeterExpired]);
+    tp.push(["addHandler", "meterActive", onMeterActive]);
+
+    tp.push(["addHandler", "experienceExecute", onExperienceExecute]);
+    tp.push(["addHandler", "experienceExecutionFailed", onExperienceExecutionFailed]);
+
+    /* external checkout related events */
+    tp.push(["addHandler", "externalCheckoutComplete", onExternalCheckoutComplete]);
+
+    tp.push(["init", function () {
+        tp.experience.init()
+    }]);
+
+    /* Multimedia/Infographics Var configuration */
+
+    if (window.location.href.indexOf("infographics") != -1) {
+      tp.push(['setCustomVariable', 'theme', 'darknavy'])
+      tp.push(['setCustomVariable', 'isFullWidth', 'true'])
+    }
+    
+    tp.push(['addHandler', 'onMeterExpired', meterData => {
+      const meterType = meterData.type || ''
+      if (meterType === 'pageViews') {
+        const maxViews = meterData.maxViews || 0
+        const totalViews = meterData.totalViews || 0
+        if (maxViews > 0 && totalViews === (maxViews + 1)) {
+          window.dataLayer = window.dataLayer || []
+          window.dataLayer.push({
+            event: 'meter-expired',
+          })
+        }
+      }
+    }])
+
+    tp.push(['addHandler', 'onLoginRequired', meterData => {
+      try {
+        localStorage.setItem('__pianoParams', JSON.stringify(params))
+      } catch (e) {
+        console.log('local storage not available: ' + e)
+      }
+
+      // redirect to Account login
+      window.location.href = paLoginUrl
+    }])
+
+    tp.push(['addHandler', 'customEvent', event => {
+      const eventName = event.eventName || null
+      if (eventName) {
+        switch (eventName) {
+        case 'sep-article-footer-close' :
+          {
+            const elBody = document.querySelector('body')
+            if (elBody) {
+              elBody.classList.remove('offer-meter-open')
+            }
+            pushGaEvent({
+              category: 'Subscription Entry Point',
+              action: `Subscription Entry Point/Article Footer/Close`,
+              label: pageUrl,
+            })
+          }
+          break
+        case 'sep-article-footer-support' :
+          {
+            pushGaEvent({
+              category: 'Subscription Entry Point',
+              action: `Subscription Entry Point/Article Footer/Support Us`,
+              label: pageUrl,
+            })
+          }
+          break
+        }
+      }
+    }])
+  
+    tp.push(['addHandler', 'checkoutCustomEvent', event => {
+      const eventName = event.eventName
+      const meter = event.params.meter
+      const collapse = (event.params.collapse) ? 'true' : false
+      const pageUrl = location.pathname
+      let meterState
+      // tighten wall update, last meter (wall) is 6, always Enlarged
+      if (meter === '6') {
+        meterState = 'Enlarged'
+      } else {
+        meterState = (collapse === true) ? 'Minimize' : 'Enlarged'
+      }
+
+      if (eventName && meter) {
+        switch (eventName) {
+        case 'meter-subscribe':
+          {
+            pushDataLayerSubscribeVariables({ meter })
+            if (meter === '6') {
+              const hasRegiWall = localStorage.getItem('SCMP_RegiWallShown') || ''
+              pushGaEvent({
+                category: 'Subscription Metering',
+                action: `Subscription Metering/${(hasRegiWall === 'yes') ? 'Login Wall/' : ''}Enlarged/Click Subscribe`,
+                label: pageUrl,
+                value: meter
+              })
+            } else {
+              pushGaEvent({
+                category: 'Subscription Metering',
+                action: `Subscription Metering/${meterState}/Click Subscribe`,
+                label: pageUrl,
+                value: meter
+              })
+
+            }
+          }
+          break
+        case 'meter-close-modal':
+          {
+            pushGaEvent({
+              category: 'Subscription Metering',
+              action: `Subscription Metering/${meterState}/Close`,
+              label: pageUrl,
+              value: meter
+            })
+          }
+          break
+        case 'meter-signin':
+          {
+            pushGaEvent({
+              category: 'Subscription Metering',
+              action: `Subscription Metering/${meterState}/Sign in`,
+              label: pageUrl,
+              value: meter
+            })
+          }
+          break
+        case 'meter-minimize':
+          {
+            pushGaEvent({
+              category: 'Subscription Metering',
+              action: `Subscription Metering/${meterState}/Impression`,
+              label: pageUrl,
+              value: meter
+            })
+          }
+          break
+        case 'loginwall-meter-signin':
+          {
+            // login wall meter, always Enlarged
+            pushGaEvent({
+              category: 'Subscription Metering',
+              action: `Subscription Metering/Login Wall/Enlarged/Sign in`,
+              label: pageUrl,
+              value: meter
+            })
+          }
+          break
+        case 'loginwall-meter-subscribe':
+          {
+            pushGaEvent({
+              category: 'Subscription Metering',
+              action: `Subscription Metering/Login Wall/Enlarged/Click Subscribe`,
+              label: pageUrl,
+              value: meter
+            })
+          }
+          break
+        case 'loginwall-meter-signup':
+          {
+            pushGaEvent({
+              category: 'Subscription Metering',
+              action: `Subscription Metering/Login Wall/Enlarged/Sign up`,
+              label: pageUrl,
+              value: meter
+            })
+          }
+          break
+        case 'sep-article-footer-close' :
+          {
+            pushGaEvent({
+              category: 'Subscription Entry Point',
+              action: `Subscription Entry Point/Article Footer/Close`,
+              label: pageUrl,
+            })
+          }
+          break
+        case 'sep-article-footer-support' :
+          {
+            pushGaEvent({
+              category: 'Subscription Entry Point',
+              action: `Subscription Entry Point/Article Footer/Support Us`,
+              label: pageUrl,
+            })
+          }
+          break
+        }
+      }
+    }])
+
+    tp.push(['addHandler', 'showOffer', params => {
+      const elBody = document.querySelector('body')
+      if (elBody) {
+        if (params.displayMode === 'modal') {
+          elBody.classList.add('offer-meter-open')
+        }
+      }
+      const templateId = params.templateId || null
+      if (templateId) {
+
+        switch (templateId) {
+        // garys meter template id
+        case 'OTQWQKB4IP3R':
+        case 'OTGUJTQJ1NZN':
+        case 'OTO05GRJXOLW':
+          {
+            pushGaEvent({
+              category: 'Subscription Entry Point',
+              action: 'Subscription Entry Point/Article Footer/Impression',
+              label: window.location.href,
+            })
+          }
+          break;
+        }
+      }
+    }])
+
+    tp.push(['addHandler', 'showOffer', params => {
+	    // add class to customize popup modal
+      document.querySelector('body').classList.add('offer-meter-open')
+	    const activeMeters = JSON.parse(params.activeMeters || '{}')
+	    if (activeMeters.length > 0) {
+	      let views = activeMeters[0].views
+	      const viewsLeft = activeMeters[0].viewsLeft
+	      const maxViews = activeMeters[0].maxViews
+	      // fix splitTest old user already has larger views than the meter
+	      if (views > maxViews) {
+	        views = maxViews
+	      }
+	      // Piano stopped increasing views after maxViews, we have one more meter after it
+	      if (viewsLeft === 0) {
+	        views += 1
+	      }
+
+	      // determinte whether it is regiwall
+	      if (maxViews == 1 && views === 2) {
+	        localStorage.setItem('SCMP_RegiWallShown', 'yes')
+	        pushGaEvent({
+	          category: 'Subscription Metering',
+	          action: 'Subscription Metering/Login Wall/Enlarged/Impression',
+	          label: window.location.href,
+	          value: views
+	        })
+	      } else if (views === 6) {
+	        const hasRegiWall = localStorage.getItem('SCMP_RegiWallShown') || ''
+	        pushGaEvent({
+	          category: 'Subscription Metering',
+	          action: `Subscription Metering/${(hasRegiWall === 'yes') ? 'Login Wall/' : ''}Enlarged/Impression`,
+	          label: window.location.href,
+	          value: views
+	        })
+	      } else {
+	        // initial meter state is Enlarged for all meters
+	        pushGaEvent({
+	          category: 'Subscription Metering',
+	          action: `Subscription Metering/Enlarged/Impression`,
+	          label: window.location.href,
+	          value: views
+	        })
+	      }
+	  }
+    }])
+})();
+
+
+    // do not change this section
+    // |BEGIN INCLUDE TINYPASS JS|
+    (function(src){var a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=src;var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})("//sandbox.tinypass.com/api/tinypass.min.js");
+    // |END   INCLUDE TINYPASS JS|
+

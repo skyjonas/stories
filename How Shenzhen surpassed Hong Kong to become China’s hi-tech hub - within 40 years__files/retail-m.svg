@@ -1,0 +1,1518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 425 865" style="enable-background:new 0 0 425 865;" xml:space="preserve">
+<style type="text/css">
+    @import url('https://fonts.googleapis.com/css?family=Merriweather:100,300,400,500,600,700|Roboto:100,300,400,500,600,700');
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:#C13B2E;stroke:#EBEBEB;stroke-width:0.35;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st4{fill:#13A6C5;stroke:#EBEBEB;stroke-width:0.35;stroke-miterlimit:10;}
+	.st5{font-family:'Roboto';font-weight:300;}
+	.st6{font-size:14px;}
+	.st7{font-family:'Roboto';font-weight:100;}
+	.st8{fill:url(#SVGID_3_);}
+	.st9{fill:url(#SVGID_4_);}
+	.st10{fill:url(#SVGID_5_);}
+	.st11{fill:url(#SVGID_6_);}
+	.st12{fill:url(#SVGID_7_);}
+	.st13{fill:url(#SVGID_8_);}
+	.st14{fill:url(#SVGID_9_);}
+	.st15{fill:url(#SVGID_10_);}
+	.st16{fill:url(#SVGID_11_);}
+	.st17{fill:url(#SVGID_12_);}
+	.st18{fill:url(#SVGID_13_);}
+	.st19{fill:url(#SVGID_14_);}
+	.st20{fill:url(#SVGID_15_);}
+	.st21{fill:url(#SVGID_16_);}
+	.st22{fill:url(#SVGID_17_);}
+	.st23{fill:url(#SVGID_18_);}
+	.st24{fill:url(#SVGID_19_);}
+	.st25{fill:url(#SVGID_20_);}
+	.st26{fill:url(#SVGID_21_);}
+	.st27{fill:url(#SVGID_22_);}
+	.st28{fill:url(#SVGID_23_);}
+	.st29{fill:url(#SVGID_24_);}
+	.st30{fill:url(#SVGID_25_);}
+	.st31{fill:url(#SVGID_26_);}
+	.st32{fill:url(#SVGID_27_);}
+	.st33{fill:url(#SVGID_28_);}
+	.st34{fill:url(#SVGID_29_);}
+	.st35{fill:url(#SVGID_30_);}
+	.st36{fill:url(#SVGID_31_);}
+	.st37{fill:url(#SVGID_32_);}
+	.st38{fill:url(#SVGID_33_);}
+	.st39{fill:url(#SVGID_34_);}
+	.st40{fill:url(#SVGID_35_);}
+	.st41{fill:url(#SVGID_36_);}
+	.st42{fill:url(#SVGID_37_);}
+	.st43{fill:url(#SVGID_38_);}
+	.st44{fill:url(#SVGID_39_);}
+	.st45{fill:url(#SVGID_40_);}
+	.st46{fill:url(#SVGID_41_);}
+	.st47{fill:url(#SVGID_42_);}
+	.st48{fill:url(#SVGID_43_);}
+	.st49{fill:url(#SVGID_44_);}
+	.st50{fill:url(#SVGID_45_);}
+	.st51{fill:url(#SVGID_46_);}
+	.st52{fill:url(#SVGID_47_);}
+	.st53{fill:url(#SVGID_48_);}
+	.st54{fill:url(#SVGID_49_);}
+	.st55{fill:url(#SVGID_50_);}
+	.st56{fill:url(#SVGID_51_);}
+	.st57{fill:url(#SVGID_52_);}
+	.st58{fill:url(#SVGID_53_);}
+	.st59{fill:url(#SVGID_54_);}
+	.st60{fill:url(#SVGID_55_);}
+	.st61{fill:url(#SVGID_56_);}
+	.st62{fill:url(#SVGID_57_);}
+	.st63{fill:url(#SVGID_58_);}
+	.st64{fill:url(#SVGID_59_);}
+	.st65{fill:url(#SVGID_60_);}
+	.st66{fill:url(#SVGID_61_);}
+	.st67{fill:url(#SVGID_62_);}
+	.st68{fill:url(#SVGID_63_);}
+	.st69{fill:url(#SVGID_64_);}
+	.st70{fill:url(#SVGID_65_);}
+	.st71{fill:url(#SVGID_66_);}
+	.st72{fill:url(#SVGID_67_);}
+	.st73{fill:url(#SVGID_68_);}
+	.st74{fill:url(#SVGID_69_);}
+	.st75{fill:url(#SVGID_70_);}
+	.st76{fill:url(#SVGID_71_);}
+	.st77{fill:url(#SVGID_72_);}
+	.st78{fill:url(#SVGID_73_);}
+	.st79{fill:url(#SVGID_74_);}
+	.st80{fill:url(#SVGID_75_);}
+	.st81{fill:url(#SVGID_76_);}
+	.st82{fill:url(#SVGID_77_);}
+	.st83{fill:url(#SVGID_78_);}
+	.st84{fill:url(#SVGID_79_);}
+	.st85{fill:url(#SVGID_80_);}
+	.st86{fill:#AAAAAA;}
+	.st87{font-family:'Roboto';font-weight:300;font-style:italic;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="-14.58355" x2="421.328" y2="-14.58355" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st0" points="215.8,72.75628 215.8,53.85628 572.90002,53.85628 572.90002,72.75628 "/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="-14.58355" x2="3.2009" y2="-14.58355" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st1" points="-148.10001,72.75628 -148.10001,53.85628 209.10001,53.85628 209.10001,72.75628 "/>
+<rect x="257.20001" y="53.95628" class="st2" width="2.60001" height="18.6"/>
+<rect x="250.8" y="53.95628" class="st2" width="6.40001" height="18.6"/>
+<rect x="241.5" y="53.95628" class="st2" width="6.39999" height="18.6"/>
+<rect x="235.10001" y="53.95628" class="st2" width="6.39999" height="18.6"/>
+<rect x="228.60001" y="53.95628" class="st2" width="6.39999" height="18.6"/>
+<rect x="222.2" y="53.95628" class="st2" width="6.39999" height="18.6"/>
+<rect x="215.8" y="53.95628" class="st2" width="6.39999" height="18.6"/>
+<line class="st3" x1="493.10001" y1="74.05628" x2="493.29999" y2="52.95628"/>
+<line class="st3" x1="423.10001" y1="74.05628" x2="423.20001" y2="52.95628"/>
+<line class="st3" x1="353" y1="74.05628" x2="353.20001" y2="52.95628"/>
+<line class="st3" x1="284.5" y1="74.05628" x2="284.5" y2="52.65628"/>
+<rect x="106.9" y="53.95628" class="st4" width="6.4" height="18.6"/>
+<rect x="113.3" y="53.95628" class="st4" width="6.4" height="18.6"/>
+<rect x="101.5" y="53.95628" class="st4" width="5.3" height="18.6"/>
+<rect x="119.7" y="53.95628" class="st4" width="6.4" height="18.6"/>
+<rect x="126.2" y="53.95628" class="st4" width="6.39999" height="18.6"/>
+<rect x="132.60001" y="53.95628" class="st4" width="6.39999" height="18.6"/>
+<rect x="141.89999" y="53.95628" class="st4" width="6.39999" height="18.6"/>
+<rect x="148.3" y="53.95628" class="st4" width="6.39999" height="18.6"/>
+<rect x="154.8" y="53.95628" class="st4" width="6.39999" height="18.6"/>
+<rect x="161.2" y="53.95628" class="st4" width="6.39999" height="18.6"/>
+<rect x="167.60001" y="53.95628" class="st4" width="6.39999" height="18.6"/>
+<rect x="176.89999" y="53.95628" class="st4" width="6.39999" height="18.6"/>
+<rect x="183.3" y="53.95628" class="st4" width="6.39999" height="18.6"/>
+<rect x="189.8" y="53.95628" class="st4" width="6.39999" height="18.6"/>
+<rect x="196.2" y="53.95628" class="st4" width="6.39999" height="18.6"/>
+<rect x="202.7" y="53.95628" class="st4" width="6.39999" height="18.6"/>
+<line class="st3" x1="-68.3" y1="74.05628" x2="-68.3" y2="52.95628"/>
+<line class="st3" x1="1.8" y1="74.05628" x2="1.8" y2="52.95628"/>
+<line class="st3" x1="71.8" y1="74.05628" x2="71.8" y2="52.95628"/>
+<line class="st3" x1="140.5" y1="74.05628" x2="140.5" y2="52.95628"/>
+<text transform="matrix(1 0 0 1 75.17749 16.97644)" class="st5 st6">Shenzhen</text>
+<text transform="matrix(1 0 0 1 281.1333 16.97644)" class="st5 st6">Hong Kong</text>
+<g>
+	<text transform="matrix(1 0 0 1 9.95541 68.85791)" class="st7 st6">1980</text>
+</g>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="5.51645" x2="421.328" y2="5.51645" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st8" points="215.8,92.85628 215.8,73.95628 572.90002,73.95628 572.90002,92.85628 "/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="5.51645" x2="3.2009" y2="5.51645" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st9" points="-148.10001,92.85628 -148.10001,73.95628 209.10001,73.95628 209.10001,92.85628 "/>
+<rect x="250.8" y="74.05628" class="st2" width="6.40001" height="18.6"/>
+<rect x="241.5" y="74.05628" class="st2" width="6.39999" height="18.6"/>
+<rect x="235.10001" y="74.05628" class="st2" width="6.39999" height="18.6"/>
+<rect x="228.60001" y="74.05628" class="st2" width="6.39999" height="18.6"/>
+<rect x="222.2" y="74.05628" class="st2" width="6.39999" height="18.6"/>
+<rect x="215.8" y="74.05628" class="st2" width="6.39999" height="18.6"/>
+<line class="st3" x1="493.10001" y1="94.15628" x2="493.29999" y2="73.05628"/>
+<line class="st3" x1="423.10001" y1="94.15628" x2="423.20001" y2="73.05628"/>
+<line class="st3" x1="353" y1="94.15628" x2="353.20001" y2="73.05628"/>
+<line class="st3" x1="284.5" y1="94.15628" x2="284.5" y2="72.75628"/>
+<rect x="111.5" y="74.05628" class="st4" width="1.8" height="18.6"/>
+<rect x="113.3" y="74.05628" class="st4" width="6.4" height="18.6"/>
+<rect x="119.7" y="74.05628" class="st4" width="6.4" height="18.6"/>
+<rect x="126.2" y="74.05628" class="st4" width="6.39999" height="18.6"/>
+<rect x="132.60001" y="74.05628" class="st4" width="6.39999" height="18.6"/>
+<rect x="141.89999" y="74.05628" class="st4" width="6.39999" height="18.6"/>
+<rect x="148.3" y="74.05628" class="st4" width="6.39999" height="18.6"/>
+<rect x="154.8" y="74.05628" class="st4" width="6.39999" height="18.6"/>
+<rect x="161.2" y="74.05628" class="st4" width="6.39999" height="18.6"/>
+<rect x="167.60001" y="74.05628" class="st4" width="6.39999" height="18.6"/>
+<rect x="176.89999" y="74.05628" class="st4" width="6.39999" height="18.6"/>
+<rect x="183.3" y="74.05628" class="st4" width="6.39999" height="18.6"/>
+<rect x="189.8" y="74.05628" class="st4" width="6.39999" height="18.6"/>
+<rect x="196.2" y="74.05628" class="st4" width="6.39999" height="18.6"/>
+<rect x="202.7" y="74.05628" class="st4" width="6.39999" height="18.6"/>
+<line class="st3" x1="-68.3" y1="94.15628" x2="-68.3" y2="73.05628"/>
+<line class="st3" x1="1.8" y1="94.15628" x2="1.8" y2="73.05628"/>
+<line class="st3" x1="71.8" y1="94.15628" x2="71.8" y2="73.05628"/>
+<line class="st3" x1="140.5" y1="94.15628" x2="140.5" y2="73.05628"/>
+<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="25.61645" x2="421.328" y2="25.61645" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st10" points="215.8,112.95628 215.8,94.05628 572.90002,94.05628 572.90002,112.95628 "/>
+<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="25.61645" x2="3.2009" y2="25.61645" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st11" points="-148.10001,112.95628 -148.10001,94.05628 209.10001,94.05628 209.10001,112.95628 "/>
+<rect x="250.8" y="94.15628" class="st2" width="4.39999" height="18.6"/>
+<rect x="241.5" y="94.15628" class="st2" width="6.39999" height="18.6"/>
+<rect x="235.10001" y="94.15628" class="st2" width="6.39999" height="18.6"/>
+<rect x="228.60001" y="94.15628" class="st2" width="6.39999" height="18.6"/>
+<rect x="222.2" y="94.15628" class="st2" width="6.39999" height="18.6"/>
+<rect x="215.8" y="94.15628" class="st2" width="6.39999" height="18.6"/>
+<line class="st3" x1="493.10001" y1="114.35628" x2="493.29999" y2="93.15628"/>
+<line class="st3" x1="423.10001" y1="114.35628" x2="423.20001" y2="93.15628"/>
+<line class="st3" x1="353" y1="114.35628" x2="353.20001" y2="93.15628"/>
+<line class="st3" x1="284.5" y1="114.35628" x2="284.5" y2="92.85628"/>
+<rect x="119.7" y="94.15628" class="st4" width="6.4" height="18.6"/>
+<rect x="126.2" y="94.15628" class="st4" width="6.39999" height="18.6"/>
+<rect x="132.60001" y="94.15628" class="st4" width="6.39999" height="18.6"/>
+<rect x="141.89999" y="94.15628" class="st4" width="6.39999" height="18.6"/>
+<rect x="148.3" y="94.15628" class="st4" width="6.39999" height="18.6"/>
+<rect x="154.8" y="94.15628" class="st4" width="6.39999" height="18.6"/>
+<rect x="161.2" y="94.15628" class="st4" width="6.39999" height="18.6"/>
+<rect x="167.60001" y="94.15628" class="st4" width="6.39999" height="18.6"/>
+<rect x="176.89999" y="94.15628" class="st4" width="6.39999" height="18.6"/>
+<rect x="183.3" y="94.15628" class="st4" width="6.39999" height="18.6"/>
+<rect x="189.8" y="94.15628" class="st4" width="6.39999" height="18.6"/>
+<rect x="196.2" y="94.15628" class="st4" width="6.39999" height="18.6"/>
+<rect x="202.7" y="94.15628" class="st4" width="6.39999" height="18.6"/>
+<line class="st3" x1="-68.3" y1="114.35628" x2="-68.3" y2="93.15628"/>
+<line class="st3" x1="1.8" y1="114.35628" x2="1.8" y2="93.15628"/>
+<line class="st3" x1="71.8" y1="114.35628" x2="71.8" y2="93.15628"/>
+<line class="st3" x1="140.5" y1="114.35628" x2="140.5" y2="93.15628"/>
+<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="45.71645" x2="421.328" y2="45.71645" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st12" points="215.8,133.05627 215.8,114.15628 572.90002,114.15628 572.90002,133.05627 "/>
+<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="45.71645" x2="3.2009" y2="45.71645" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st13" points="-148.10001,133.05627 -148.10001,114.15628 209.10001,114.15628 209.10001,133.05627 "/>
+<rect x="250.8" y="114.35628" class="st2" width="1.39999" height="18.60001"/>
+<rect x="241.5" y="114.35628" class="st2" width="6.39999" height="18.60001"/>
+<rect x="235.10001" y="114.35628" class="st2" width="6.39999" height="18.60001"/>
+<rect x="228.60001" y="114.35628" class="st2" width="6.39999" height="18.60001"/>
+<rect x="222.2" y="114.35628" class="st2" width="6.39999" height="18.60001"/>
+<rect x="215.8" y="114.35628" class="st2" width="6.39999" height="18.60001"/>
+<line class="st3" x1="493.10001" y1="134.45628" x2="493.29999" y2="113.25628"/>
+<line class="st3" x1="423.10001" y1="134.45628" x2="423.20001" y2="113.25628"/>
+<line class="st3" x1="353" y1="134.45628" x2="353.20001" y2="113.25628"/>
+<line class="st3" x1="284.5" y1="134.45628" x2="284.5" y2="112.95628"/>
+<rect x="121" y="114.35628" class="st4" width="5.2" height="18.60001"/>
+<rect x="126.2" y="114.35628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="132.60001" y="114.35628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="141.89999" y="114.35628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="148.3" y="114.35628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="154.8" y="114.35628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="161.2" y="114.35628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="167.60001" y="114.35628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="176.89999" y="114.35628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="183.3" y="114.35628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="189.8" y="114.35628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="196.2" y="114.35628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="202.7" y="114.35628" class="st4" width="6.39999" height="18.60001"/>
+<line class="st3" x1="-68.3" y1="134.45628" x2="-68.3" y2="113.25628"/>
+<line class="st3" x1="1.8" y1="134.45628" x2="1.8" y2="113.25628"/>
+<line class="st3" x1="71.8" y1="134.45628" x2="71.8" y2="113.25628"/>
+<line class="st3" x1="140.5" y1="134.45628" x2="140.5" y2="113.25628"/>
+<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="65.81645" x2="421.328" y2="65.81645" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st14" points="215.8,153.15628 215.8,134.25629 572.90002,134.25629 572.90002,153.15628 "/>
+<linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="65.81645" x2="3.2009" y2="65.81645" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st15" points="-148.10001,153.15628 -148.10001,134.25629 209.10001,134.25629 209.10001,153.15628 "/>
+<rect x="250.8" y="134.45628" class="st2" width="2.7" height="18.60001"/>
+<rect x="241.5" y="134.45628" class="st2" width="6.39999" height="18.60001"/>
+<rect x="235.10001" y="134.45628" class="st2" width="6.39999" height="18.60001"/>
+<rect x="228.60001" y="134.45628" class="st2" width="6.39999" height="18.60001"/>
+<rect x="222.2" y="134.45628" class="st2" width="6.39999" height="18.60001"/>
+<rect x="215.8" y="134.45628" class="st2" width="6.39999" height="18.60001"/>
+<line class="st3" x1="493.10001" y1="154.55627" x2="493.29999" y2="133.35628"/>
+<line class="st3" x1="423.10001" y1="154.55627" x2="423.20001" y2="133.35628"/>
+<line class="st3" x1="353" y1="154.55627" x2="353.20001" y2="133.35628"/>
+<line class="st3" x1="284.5" y1="154.55627" x2="284.5" y2="133.05627"/>
+<rect x="121.8" y="134.45628" class="st4" width="4.4" height="18.60001"/>
+<rect x="126.2" y="134.45628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="132.60001" y="134.45628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="141.89999" y="134.45628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="148.3" y="134.45628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="154.8" y="134.45628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="161.2" y="134.45628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="167.60001" y="134.45628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="176.89999" y="134.45628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="183.3" y="134.45628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="189.8" y="134.45628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="196.2" y="134.45628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="202.7" y="134.45628" class="st4" width="6.39999" height="18.60001"/>
+<line class="st3" x1="-68.3" y1="154.55627" x2="-68.3" y2="133.35628"/>
+<line class="st3" x1="1.8" y1="154.55627" x2="1.8" y2="133.35628"/>
+<line class="st3" x1="71.8" y1="154.55627" x2="71.8" y2="133.35628"/>
+<line class="st3" x1="140.5" y1="154.55627" x2="140.5" y2="133.35628"/>
+<linearGradient id="SVGID_11_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="85.91645" x2="421.328" y2="85.91645" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st16" points="215.8,173.25629 215.8,154.35628 572.90002,154.35628 572.90002,173.25629 "/>
+<linearGradient id="SVGID_12_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="85.91645" x2="3.2009" y2="85.91645" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st17" points="-148.10001,173.25629 -148.10001,154.35628 209.10001,154.35628 209.10001,173.25629 "/>
+<rect x="250.8" y="154.55627" class="st2" width="2.7" height="18.60001"/>
+<rect x="241.5" y="154.55627" class="st2" width="6.39999" height="18.60001"/>
+<rect x="235.10001" y="154.55627" class="st2" width="6.39999" height="18.60001"/>
+<rect x="228.60001" y="154.55627" class="st2" width="6.39999" height="18.60001"/>
+<rect x="222.2" y="154.55627" class="st2" width="6.39999" height="18.60001"/>
+<rect x="215.8" y="154.55627" class="st2" width="6.39999" height="18.60001"/>
+<line class="st3" x1="493.10001" y1="174.65628" x2="493.29999" y2="153.45628"/>
+<line class="st3" x1="423.10001" y1="174.65628" x2="423.20001" y2="153.45628"/>
+<line class="st3" x1="353" y1="174.65628" x2="353.20001" y2="153.45628"/>
+<line class="st3" x1="284.5" y1="174.65628" x2="284.5" y2="153.15628"/>
+<rect x="111.5" y="154.55627" class="st4" width="1.8" height="18.60001"/>
+<rect x="113.3" y="154.55627" class="st4" width="6.4" height="18.60001"/>
+<rect x="119.7" y="154.55627" class="st4" width="6.4" height="18.60001"/>
+<rect x="126.2" y="154.55627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="132.60001" y="154.55627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="141.89999" y="154.55627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="148.3" y="154.55627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="154.8" y="154.55627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="161.2" y="154.55627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="167.60001" y="154.55627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="176.89999" y="154.55627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="183.3" y="154.55627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="189.8" y="154.55627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="196.2" y="154.55627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="202.7" y="154.55627" class="st4" width="6.39999" height="18.60001"/>
+<line class="st3" x1="-68.3" y1="174.65628" x2="-68.3" y2="153.45628"/>
+<line class="st3" x1="1.8" y1="174.65628" x2="1.8" y2="153.45628"/>
+<line class="st3" x1="71.8" y1="174.65628" x2="71.8" y2="153.45628"/>
+<line class="st3" x1="140.5" y1="174.65628" x2="140.5" y2="153.45628"/>
+<g>
+	<text transform="matrix(1 0 0 1 9.95541 169.3938)" class="st7 st6">1985</text>
+</g>
+<linearGradient id="SVGID_13_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="106.01645" x2="421.328" y2="106.01645" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st18" points="215.8,193.35628 215.8,174.45628 572.90002,174.45628 572.90002,193.35628 "/>
+<linearGradient id="SVGID_14_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="106.01645" x2="3.2009" y2="106.01645" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st19" points="-148.10001,193.35628 -148.10001,174.45628 209.10001,174.45628 209.10001,193.35628 "/>
+<rect x="241.5" y="174.65628" class="st2" width="5.3" height="18.60001"/>
+<rect x="235.10001" y="174.65628" class="st2" width="6.39999" height="18.60001"/>
+<rect x="228.60001" y="174.65628" class="st2" width="6.39999" height="18.60001"/>
+<rect x="222.2" y="174.65628" class="st2" width="6.39999" height="18.60001"/>
+<rect x="215.8" y="174.65628" class="st2" width="6.39999" height="18.60001"/>
+<line class="st3" x1="493.10001" y1="194.75629" x2="493.29999" y2="173.55627"/>
+<line class="st3" x1="423.10001" y1="194.75629" x2="423.20001" y2="173.55627"/>
+<line class="st3" x1="353" y1="194.75629" x2="353.20001" y2="173.55627"/>
+<line class="st3" x1="284.5" y1="194.75629" x2="284.5" y2="173.25629"/>
+<rect x="111.9" y="174.65628" class="st4" width="1.4" height="18.60001"/>
+<rect x="113.3" y="174.65628" class="st4" width="6.4" height="18.60001"/>
+<rect x="119.7" y="174.65628" class="st4" width="6.4" height="18.60001"/>
+<rect x="126.2" y="174.65628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="132.60001" y="174.65628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="141.89999" y="174.65628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="148.3" y="174.65628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="154.8" y="174.65628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="161.2" y="174.65628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="167.60001" y="174.65628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="176.89999" y="174.65628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="183.3" y="174.65628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="189.8" y="174.65628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="196.2" y="174.65628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="202.7" y="174.65628" class="st4" width="6.39999" height="18.60001"/>
+<line class="st3" x1="-68.3" y1="194.75629" x2="-68.3" y2="173.55627"/>
+<line class="st3" x1="1.8" y1="194.75629" x2="1.8" y2="173.55627"/>
+<line class="st3" x1="71.8" y1="194.75629" x2="71.8" y2="173.55627"/>
+<line class="st3" x1="140.5" y1="194.75629" x2="140.5" y2="173.55627"/>
+<linearGradient id="SVGID_15_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="126.11645" x2="421.328" y2="126.11645" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st20" points="215.8,213.45628 215.8,194.55627 572.90002,194.55627 572.90002,213.45628 "/>
+<linearGradient id="SVGID_16_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="126.11645" x2="3.2009" y2="126.11645" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st21" points="-148.10001,213.45628 -148.10001,194.55627 209.10001,194.55627 209.10001,213.45628 "/>
+<rect x="250.8" y="194.75629" class="st2" width="2.10001" height="18.60001"/>
+<rect x="241.5" y="194.75629" class="st2" width="6.39999" height="18.60001"/>
+<rect x="235.10001" y="194.75629" class="st2" width="6.39999" height="18.60001"/>
+<rect x="228.60001" y="194.75629" class="st2" width="6.39999" height="18.60001"/>
+<rect x="222.2" y="194.75629" class="st2" width="6.39999" height="18.60001"/>
+<rect x="215.8" y="194.75629" class="st2" width="6.39999" height="18.60001"/>
+<line class="st3" x1="493.10001" y1="214.85628" x2="493.29999" y2="193.65628"/>
+<line class="st3" x1="423.10001" y1="214.85628" x2="423.20001" y2="193.65628"/>
+<line class="st3" x1="353" y1="214.85628" x2="353.20001" y2="193.65628"/>
+<line class="st3" x1="284.5" y1="214.85628" x2="284.5" y2="193.35628"/>
+<rect x="120.8" y="194.75629" class="st4" width="5.3" height="18.60001"/>
+<rect x="126.2" y="194.75629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="132.60001" y="194.75629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="141.89999" y="194.75629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="148.3" y="194.75629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="154.8" y="194.75629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="161.2" y="194.75629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="167.60001" y="194.75629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="176.89999" y="194.75629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="183.3" y="194.75629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="189.8" y="194.75629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="196.2" y="194.75629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="202.7" y="194.75629" class="st4" width="6.39999" height="18.60001"/>
+<line class="st3" x1="-68.3" y1="214.85628" x2="-68.3" y2="193.65628"/>
+<line class="st3" x1="1.8" y1="214.85628" x2="1.8" y2="193.65628"/>
+<line class="st3" x1="71.8" y1="214.85628" x2="71.8" y2="193.65628"/>
+<line class="st3" x1="140.5" y1="214.85628" x2="140.5" y2="193.65628"/>
+<linearGradient id="SVGID_17_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="146.26645" x2="421.328" y2="146.26645" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st22" points="215.8,233.65628 215.8,214.65628 572.90002,214.65628 572.90002,233.65628 "/>
+<linearGradient id="SVGID_18_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="146.26645" x2="3.2009" y2="146.26645" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st23" points="-148.10001,233.65628 -148.10001,214.65628 209.10001,214.65628 209.10001,233.65628 "/>
+<rect x="250.8" y="214.85628" class="st2" width="2.10001" height="18.60001"/>
+<rect x="241.5" y="214.85628" class="st2" width="6.39999" height="18.60001"/>
+<rect x="235.10001" y="214.85628" class="st2" width="6.39999" height="18.60001"/>
+<rect x="228.60001" y="214.85628" class="st2" width="6.39999" height="18.60001"/>
+<rect x="222.2" y="214.85628" class="st2" width="6.39999" height="18.60001"/>
+<rect x="215.8" y="214.85628" class="st2" width="6.39999" height="18.60001"/>
+<line class="st3" x1="493.10001" y1="234.95628" x2="493.29999" y2="213.75629"/>
+<line class="st3" x1="423.10001" y1="234.95628" x2="423.20001" y2="213.75629"/>
+<line class="st3" x1="353" y1="234.95628" x2="353.20001" y2="213.75629"/>
+<line class="st3" x1="284.5" y1="234.95628" x2="284.5" y2="213.55627"/>
+<rect x="118.3" y="214.85628" class="st4" width="1.5" height="18.60001"/>
+<rect x="119.7" y="214.85628" class="st4" width="6.4" height="18.60001"/>
+<rect x="126.2" y="214.85628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="132.60001" y="214.85628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="141.89999" y="214.85628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="148.3" y="214.85628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="154.8" y="214.85628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="161.2" y="214.85628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="167.60001" y="214.85628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="176.89999" y="214.85628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="183.3" y="214.85628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="189.8" y="214.85628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="196.2" y="214.85628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="202.7" y="214.85628" class="st4" width="6.39999" height="18.60001"/>
+<line class="st3" x1="-68.3" y1="234.95628" x2="-68.3" y2="213.75629"/>
+<line class="st3" x1="1.8" y1="234.95628" x2="1.8" y2="213.75629"/>
+<line class="st3" x1="71.8" y1="234.95628" x2="71.8" y2="213.75629"/>
+<line class="st3" x1="140.5" y1="234.95628" x2="140.5" y2="213.75629"/>
+<linearGradient id="SVGID_19_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="166.36646" x2="421.328" y2="166.36646" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st24" points="215.8,253.75629 215.8,234.75629 572.90002,234.75629 572.90002,253.75629 "/>
+<linearGradient id="SVGID_20_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="166.36646" x2="3.2009" y2="166.36646" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st25" points="-148.10001,253.75629 -148.10001,234.75629 209.10001,234.75629 209.10001,253.75629 "/>
+<rect x="250.8" y="234.95628" class="st2" width="1.39999" height="18.59999"/>
+<rect x="241.5" y="234.95628" class="st2" width="6.39999" height="18.59999"/>
+<rect x="235.10001" y="234.95628" class="st2" width="6.39999" height="18.59999"/>
+<rect x="228.60001" y="234.95628" class="st2" width="6.39999" height="18.59999"/>
+<rect x="222.2" y="234.95628" class="st2" width="6.39999" height="18.59999"/>
+<rect x="215.8" y="234.95628" class="st2" width="6.39999" height="18.59999"/>
+<line class="st3" x1="493.10001" y1="255.05627" x2="493.29999" y2="233.95628"/>
+<line class="st3" x1="423.10001" y1="255.05627" x2="423.20001" y2="233.95628"/>
+<line class="st3" x1="353" y1="255.05627" x2="353.20001" y2="233.95628"/>
+<line class="st3" x1="284.5" y1="255.05627" x2="284.5" y2="233.65628"/>
+<rect x="138" y="234.95628" class="st4" width="1" height="18.59999"/>
+<rect x="141.89999" y="234.95628" class="st4" width="6.39999" height="18.59999"/>
+<rect x="148.3" y="234.95628" class="st4" width="6.39999" height="18.59999"/>
+<rect x="154.8" y="234.95628" class="st4" width="6.39999" height="18.59999"/>
+<rect x="161.2" y="234.95628" class="st4" width="6.39999" height="18.59999"/>
+<rect x="167.60001" y="234.95628" class="st4" width="6.39999" height="18.59999"/>
+<rect x="176.89999" y="234.95628" class="st4" width="6.39999" height="18.59999"/>
+<rect x="183.3" y="234.95628" class="st4" width="6.39999" height="18.59999"/>
+<rect x="189.8" y="234.95628" class="st4" width="6.39999" height="18.59999"/>
+<rect x="196.2" y="234.95628" class="st4" width="6.39999" height="18.59999"/>
+<rect x="202.7" y="234.95628" class="st4" width="6.39999" height="18.59999"/>
+<line class="st3" x1="-68.3" y1="255.05627" x2="-68.3" y2="233.95628"/>
+<line class="st3" x1="1.8" y1="255.05627" x2="1.8" y2="233.95628"/>
+<line class="st3" x1="71.8" y1="255.05627" x2="71.8" y2="233.95628"/>
+<line class="st3" x1="140.5" y1="255.05627" x2="140.5" y2="233.95628"/>
+<linearGradient id="SVGID_21_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="186.46646" x2="421.328" y2="186.46646" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st26" points="215.8,273.85629 215.8,254.85629 572.90002,254.85629 572.90002,273.85629 "/>
+<linearGradient id="SVGID_22_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="186.46646" x2="3.2009" y2="186.46646" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st27" points="-148.10001,273.85629 -148.10001,254.85629 209.10001,254.85629 209.10001,273.85629 "/>
+<rect x="250.8" y="255.05627" class="st2" width="1" height="18.60001"/>
+<rect x="241.5" y="255.05627" class="st2" width="6.39999" height="18.60001"/>
+<rect x="235.10001" y="255.05627" class="st2" width="6.39999" height="18.60001"/>
+<rect x="228.60001" y="255.05627" class="st2" width="6.39999" height="18.60001"/>
+<rect x="222.2" y="255.05627" class="st2" width="6.39999" height="18.60001"/>
+<rect x="215.8" y="255.05627" class="st2" width="6.39999" height="18.60001"/>
+<line class="st3" x1="493.10001" y1="275.15628" x2="493.29999" y2="254.05627"/>
+<line class="st3" x1="423.10001" y1="275.15628" x2="423.20001" y2="254.05627"/>
+<line class="st3" x1="353" y1="275.15628" x2="353.20001" y2="254.05627"/>
+<line class="st3" x1="284.5" y1="275.15628" x2="284.5" y2="253.75629"/>
+<rect x="149.3" y="255.05627" class="st4" width="5.39999" height="18.60001"/>
+<rect x="154.8" y="255.05627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="161.2" y="255.05627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="167.60001" y="255.05627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="176.89999" y="255.05627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="183.3" y="255.05627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="189.8" y="255.05627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="196.2" y="255.05627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="202.7" y="255.05627" class="st4" width="6.39999" height="18.60001"/>
+<line class="st3" x1="-68.3" y1="275.15628" x2="-68.3" y2="254.05627"/>
+<line class="st3" x1="1.8" y1="275.15628" x2="1.8" y2="254.05627"/>
+<line class="st3" x1="71.8" y1="275.15628" x2="71.8" y2="254.05627"/>
+<line class="st3" x1="140.5" y1="275.15628" x2="140.5" y2="254.05627"/>
+<g>
+	<text transform="matrix(1 0 0 1 9.95541 269.92957)" class="st7 st6">1990</text>
+</g>
+<linearGradient id="SVGID_23_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="206.56644" x2="421.328" y2="206.56644" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st28" points="215.8,293.95627 215.8,274.95627 572.90002,274.95627 572.90002,293.95627 "/>
+<linearGradient id="SVGID_24_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="206.56644" x2="3.2009" y2="206.56644" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st29" points="-148.10001,293.95627 -148.10001,274.95627 209.10001,274.95627 209.10001,293.95627 "/>
+<rect x="250.8" y="275.15628" class="st2" width="1" height="18.60001"/>
+<rect x="241.5" y="275.15628" class="st2" width="6.39999" height="18.60001"/>
+<rect x="235.10001" y="275.15628" class="st2" width="6.39999" height="18.60001"/>
+<rect x="228.60001" y="275.15628" class="st2" width="6.39999" height="18.60001"/>
+<rect x="222.2" y="275.15628" class="st2" width="6.39999" height="18.60001"/>
+<rect x="215.8" y="275.15628" class="st2" width="6.39999" height="18.60001"/>
+<line class="st3" x1="493.10001" y1="295.25629" x2="493.29999" y2="274.15628"/>
+<line class="st3" x1="423.10001" y1="295.25629" x2="423.20001" y2="274.15628"/>
+<line class="st3" x1="353" y1="295.25629" x2="353.20001" y2="274.15628"/>
+<line class="st3" x1="284.5" y1="295.25629" x2="284.5" y2="273.85629"/>
+<rect x="138" y="275.15628" class="st4" width="1" height="18.60001"/>
+<rect x="141.89999" y="275.15628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="148.3" y="275.15628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="154.8" y="275.15628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="161.2" y="275.15628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="167.60001" y="275.15628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="176.89999" y="275.15628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="183.3" y="275.15628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="189.8" y="275.15628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="196.2" y="275.15628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="202.7" y="275.15628" class="st4" width="6.39999" height="18.60001"/>
+<line class="st3" x1="-68.3" y1="295.25629" x2="-68.3" y2="274.15628"/>
+<line class="st3" x1="1.8" y1="295.25629" x2="1.8" y2="274.15628"/>
+<line class="st3" x1="71.8" y1="295.25629" x2="71.8" y2="274.15628"/>
+<line class="st3" x1="140.5" y1="295.25629" x2="140.5" y2="274.15628"/>
+<linearGradient id="SVGID_25_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="226.66644" x2="421.328" y2="226.66644" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st30" points="215.8,314.05627 215.8,295.05627 572.90002,295.05627 572.90002,314.05627 "/>
+<linearGradient id="SVGID_26_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="226.66644" x2="3.2009" y2="226.66644" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st31" points="-148.10001,314.05627 -148.10001,295.05627 209.10001,295.05627 209.10001,314.05627 "/>
+<rect x="241.5" y="295.25629" class="st2" width="6.39999" height="18.60001"/>
+<rect x="235.10001" y="295.25629" class="st2" width="6.39999" height="18.60001"/>
+<rect x="228.60001" y="295.25629" class="st2" width="6.39999" height="18.60001"/>
+<rect x="222.2" y="295.25629" class="st2" width="6.39999" height="18.60001"/>
+<rect x="215.8" y="295.25629" class="st2" width="6.39999" height="18.60001"/>
+<line class="st3" x1="493.10001" y1="315.35629" x2="493.29999" y2="294.25629"/>
+<line class="st3" x1="423.10001" y1="315.35629" x2="423.20001" y2="294.25629"/>
+<line class="st3" x1="353" y1="315.35629" x2="353.20001" y2="294.25629"/>
+<line class="st3" x1="284.5" y1="315.35629" x2="284.5" y2="293.95627"/>
+<rect x="135.8" y="295.25629" class="st4" width="3.2" height="18.60001"/>
+<rect x="141.89999" y="295.25629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="148.3" y="295.25629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="154.8" y="295.25629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="161.2" y="295.25629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="167.60001" y="295.25629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="176.89999" y="295.25629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="183.3" y="295.25629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="189.8" y="295.25629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="196.2" y="295.25629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="202.7" y="295.25629" class="st4" width="6.39999" height="18.60001"/>
+<line class="st3" x1="-68.3" y1="315.35629" x2="-68.3" y2="294.25629"/>
+<line class="st3" x1="1.8" y1="315.35629" x2="1.8" y2="294.25629"/>
+<line class="st3" x1="71.8" y1="315.35629" x2="71.8" y2="294.25629"/>
+<line class="st3" x1="140.5" y1="315.35629" x2="140.5" y2="294.25629"/>
+<linearGradient id="SVGID_27_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="246.81645" x2="421.328" y2="246.81645" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st32" points="215.8,334.15628 215.8,315.25629 572.90002,315.25629 572.90002,334.15628 "/>
+<linearGradient id="SVGID_28_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="246.76645" x2="3.2009" y2="246.76645" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st33" points="-148.10001,334.15628 -148.10001,315.15628 209.10001,315.15628 209.10001,334.15628 "/>
+<rect x="241.5" y="315.35629" class="st2" width="5" height="18.60001"/>
+<rect x="235.10001" y="315.35629" class="st2" width="6.39999" height="18.60001"/>
+<rect x="228.60001" y="315.35629" class="st2" width="6.39999" height="18.60001"/>
+<rect x="222.2" y="315.35629" class="st2" width="6.39999" height="18.60001"/>
+<rect x="215.8" y="315.35629" class="st2" width="6.39999" height="18.60001"/>
+<line class="st3" x1="493.10001" y1="335.45627" x2="493.29999" y2="314.35629"/>
+<line class="st3" x1="423.10001" y1="335.45627" x2="423.20001" y2="314.35629"/>
+<line class="st3" x1="353" y1="335.45627" x2="353.20001" y2="314.35629"/>
+<line class="st3" x1="284.5" y1="335.45627" x2="284.5" y2="314.05627"/>
+<rect x="143.2" y="315.35629" class="st4" width="5.2" height="18.60001"/>
+<rect x="148.3" y="315.35629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="154.8" y="315.35629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="161.2" y="315.35629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="167.60001" y="315.35629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="176.89999" y="315.35629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="183.3" y="315.35629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="189.8" y="315.35629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="196.2" y="315.35629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="202.7" y="315.35629" class="st4" width="6.39999" height="18.60001"/>
+<line class="st3" x1="-68.3" y1="335.45627" x2="-68.3" y2="314.35629"/>
+<line class="st3" x1="1.8" y1="335.45627" x2="1.8" y2="314.35629"/>
+<line class="st3" x1="71.8" y1="335.45627" x2="71.8" y2="314.35629"/>
+<line class="st3" x1="140.5" y1="335.45627" x2="140.5" y2="314.35629"/>
+<linearGradient id="SVGID_29_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="266.91644" x2="421.328" y2="266.91644" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st34" points="215.8,354.25629 215.8,335.35629 572.90002,335.35629 572.90002,354.25629 "/>
+<linearGradient id="SVGID_30_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="266.91644" x2="3.2009" y2="266.91644" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st35" points="-148.10001,354.25629 -148.10001,335.35629 209.10001,335.35629 209.10001,354.25629 "/>
+<rect x="241.5" y="335.45627" class="st2" width="4.2" height="18.60001"/>
+<rect x="235.10001" y="335.45627" class="st2" width="6.39999" height="18.60001"/>
+<rect x="228.60001" y="335.45627" class="st2" width="6.39999" height="18.60001"/>
+<rect x="222.2" y="335.45627" class="st2" width="6.39999" height="18.60001"/>
+<rect x="215.8" y="335.45627" class="st2" width="6.39999" height="18.60001"/>
+<line class="st3" x1="493.10001" y1="355.55627" x2="493.29999" y2="334.45627"/>
+<line class="st3" x1="423.10001" y1="355.55627" x2="423.20001" y2="334.45627"/>
+<line class="st3" x1="353" y1="355.55627" x2="353.20001" y2="334.45627"/>
+<line class="st3" x1="284.5" y1="355.55627" x2="284.5" y2="334.15628"/>
+<rect x="146.60001" y="335.45627" class="st4" width="1.7" height="18.60001"/>
+<rect x="148.3" y="335.45627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="154.8" y="335.45627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="161.2" y="335.45627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="167.60001" y="335.45627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="176.89999" y="335.45627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="183.3" y="335.45627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="189.8" y="335.45627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="196.2" y="335.45627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="202.7" y="335.45627" class="st4" width="6.39999" height="18.60001"/>
+<line class="st3" x1="-68.3" y1="355.55627" x2="-68.3" y2="334.45627"/>
+<line class="st3" x1="1.8" y1="355.55627" x2="1.8" y2="334.45627"/>
+<line class="st3" x1="71.8" y1="355.55627" x2="71.8" y2="334.45627"/>
+<line class="st3" x1="140.5" y1="355.55627" x2="140.5" y2="334.45627"/>
+<linearGradient id="SVGID_31_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="287.01645" x2="421.328" y2="287.01645" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st36" points="215.8,374.35629 215.8,355.45627 572.90002,355.45627 572.90002,374.35629 "/>
+<linearGradient id="SVGID_32_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="287.01645" x2="3.2009" y2="287.01645" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st37" points="-148.10001,374.35629 -148.10001,355.45627 209.10001,355.45627 209.10001,374.35629 "/>
+<rect x="241.5" y="355.55627" class="st2" width="2.89999" height="18.60001"/>
+<rect x="235.10001" y="355.55627" class="st2" width="6.39999" height="18.60001"/>
+<rect x="228.60001" y="355.55627" class="st2" width="6.39999" height="18.60001"/>
+<rect x="222.2" y="355.55627" class="st2" width="6.39999" height="18.60001"/>
+<rect x="215.8" y="355.55627" class="st2" width="6.39999" height="18.60001"/>
+<line class="st3" x1="493.10001" y1="375.65628" x2="493.29999" y2="354.55627"/>
+<line class="st3" x1="423.10001" y1="375.65628" x2="423.20001" y2="354.55627"/>
+<line class="st3" x1="353" y1="375.65628" x2="353.20001" y2="354.55627"/>
+<line class="st3" x1="284.5" y1="375.65628" x2="284.5" y2="354.25629"/>
+<rect x="146.60001" y="355.55627" class="st4" width="1.7" height="18.60001"/>
+<rect x="148.3" y="355.55627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="154.8" y="355.55627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="161.2" y="355.55627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="167.60001" y="355.55627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="176.89999" y="355.55627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="183.3" y="355.55627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="189.8" y="355.55627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="196.2" y="355.55627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="202.7" y="355.55627" class="st4" width="6.39999" height="18.60001"/>
+<line class="st3" x1="-68.3" y1="375.65628" x2="-68.3" y2="354.55627"/>
+<line class="st3" x1="1.8" y1="375.65628" x2="1.8" y2="354.55627"/>
+<line class="st3" x1="71.8" y1="375.65628" x2="71.8" y2="354.55627"/>
+<line class="st3" x1="140.5" y1="375.65628" x2="140.5" y2="354.55627"/>
+<g>
+	<text transform="matrix(1 0 0 1 9.95541 370.46539)" class="st7 st6">1995</text>
+</g>
+<linearGradient id="SVGID_33_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="307.11646" x2="421.328" y2="307.11646" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st38" points="215.8,394.45627 215.8,375.55627 572.90002,375.55627 572.90002,394.45627 "/>
+<linearGradient id="SVGID_34_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="307.11646" x2="3.2009" y2="307.11646" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st39" points="-148.10001,394.45627 -148.10001,375.55627 209.10001,375.55627 209.10001,394.45627 "/>
+<rect x="241.5" y="375.65628" class="st2" width="2.89999" height="18.60001"/>
+<rect x="235.10001" y="375.65628" class="st2" width="6.39999" height="18.60001"/>
+<rect x="228.60001" y="375.65628" class="st2" width="6.39999" height="18.60001"/>
+<rect x="222.2" y="375.65628" class="st2" width="6.39999" height="18.60001"/>
+<rect x="215.8" y="375.65628" class="st2" width="6.39999" height="18.60001"/>
+<line class="st3" x1="493.10001" y1="395.85629" x2="493.29999" y2="374.65628"/>
+<line class="st3" x1="423.10001" y1="395.85629" x2="423.20001" y2="374.65628"/>
+<line class="st3" x1="353" y1="395.85629" x2="353.20001" y2="374.65628"/>
+<line class="st3" x1="284.5" y1="395.85629" x2="284.5" y2="374.35629"/>
+<rect x="134.8" y="375.65628" class="st4" width="4.2" height="18.60001"/>
+<rect x="141.89999" y="375.65628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="148.3" y="375.65628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="154.8" y="375.65628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="161.2" y="375.65628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="167.60001" y="375.65628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="176.89999" y="375.65628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="183.3" y="375.65628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="189.8" y="375.65628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="196.2" y="375.65628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="202.7" y="375.65628" class="st4" width="6.39999" height="18.60001"/>
+<line class="st3" x1="-68.3" y1="395.85629" x2="-68.3" y2="374.65628"/>
+<line class="st3" x1="1.8" y1="395.85629" x2="1.8" y2="374.65628"/>
+<line class="st3" x1="71.8" y1="395.85629" x2="71.8" y2="374.65628"/>
+<line class="st3" x1="140.5" y1="395.85629" x2="140.5" y2="374.65628"/>
+<linearGradient id="SVGID_35_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="327.21643" x2="421.328" y2="327.21643" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st40" points="215.8,414.55627 215.8,395.65628 572.90002,395.65628 572.90002,414.55627 "/>
+<linearGradient id="SVGID_36_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="327.21643" x2="3.2009" y2="327.21643" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st41" points="-148.10001,414.55627 -148.10001,395.65628 209.10001,395.65628 209.10001,414.55627 "/>
+<rect x="235.10001" y="395.85629" class="st2" width="6.39999" height="18.60001"/>
+<rect x="228.60001" y="395.85629" class="st2" width="6.39999" height="18.60001"/>
+<rect x="222.2" y="395.85629" class="st2" width="6.39999" height="18.60001"/>
+<rect x="215.8" y="395.85629" class="st2" width="6.39999" height="18.60001"/>
+<line class="st3" x1="493.10001" y1="415.95627" x2="493.29999" y2="394.75629"/>
+<line class="st3" x1="423.10001" y1="415.95627" x2="423.20001" y2="394.75629"/>
+<line class="st3" x1="353" y1="415.95627" x2="353.20001" y2="394.75629"/>
+<line class="st3" x1="284.5" y1="415.95627" x2="284.5" y2="394.45627"/>
+<rect x="137.60001" y="395.85629" class="st4" width="1.39999" height="18.60001"/>
+<rect x="141.89999" y="395.85629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="148.3" y="395.85629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="154.8" y="395.85629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="161.2" y="395.85629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="167.60001" y="395.85629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="176.89999" y="395.85629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="183.3" y="395.85629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="189.8" y="395.85629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="196.2" y="395.85629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="202.7" y="395.85629" class="st4" width="6.39999" height="18.60001"/>
+<line class="st3" x1="-68.3" y1="415.95627" x2="-68.3" y2="394.75629"/>
+<line class="st3" x1="1.8" y1="415.95627" x2="1.8" y2="394.75629"/>
+<line class="st3" x1="71.8" y1="415.95627" x2="71.8" y2="394.75629"/>
+<line class="st3" x1="140.5" y1="415.95627" x2="140.5" y2="394.75629"/>
+<linearGradient id="SVGID_37_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="347.31647" x2="421.328" y2="347.31647" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st42" points="215.8,434.65628 215.8,415.75629 572.90002,415.75629 572.90002,434.65628 "/>
+<linearGradient id="SVGID_38_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="347.31647" x2="3.2009" y2="347.31647" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st43" points="-148.10001,434.65628 -148.10001,415.75629 209.10001,415.75629 209.10001,434.65628 "/>
+<rect x="235.10001" y="415.95627" class="st2" width="2.7" height="18.60001"/>
+<rect x="228.60001" y="415.95627" class="st2" width="6.39999" height="18.60001"/>
+<rect x="222.2" y="415.95627" class="st2" width="6.39999" height="18.60001"/>
+<rect x="215.8" y="415.95627" class="st2" width="6.39999" height="18.60001"/>
+<line class="st3" x1="493.10001" y1="436.05627" x2="493.29999" y2="414.85629"/>
+<line class="st3" x1="423.10001" y1="436.05627" x2="423.20001" y2="414.85629"/>
+<line class="st3" x1="353" y1="436.05627" x2="353.20001" y2="414.85629"/>
+<line class="st3" x1="284.5" y1="436.05627" x2="284.5" y2="414.55627"/>
+<rect x="143.10001" y="415.95627" class="st4" width="5.2" height="18.60001"/>
+<rect x="148.3" y="415.95627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="154.8" y="415.95627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="161.2" y="415.95627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="167.60001" y="415.95627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="176.89999" y="415.95627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="183.3" y="415.95627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="189.8" y="415.95627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="196.2" y="415.95627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="202.7" y="415.95627" class="st4" width="6.39999" height="18.60001"/>
+<line class="st3" x1="-68.3" y1="436.05627" x2="-68.3" y2="414.85629"/>
+<line class="st3" x1="1.8" y1="436.05627" x2="1.8" y2="414.85629"/>
+<line class="st3" x1="71.8" y1="436.05627" x2="71.8" y2="414.85629"/>
+<line class="st3" x1="140.5" y1="436.05627" x2="140.5" y2="414.85629"/>
+<linearGradient id="SVGID_39_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="367.41644" x2="421.328" y2="367.41644" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st44" points="215.8,454.75629 215.8,435.85629 572.90002,435.85629 572.90002,454.75629 "/>
+<linearGradient id="SVGID_40_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="367.41647" x2="3.2009" y2="367.41647" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st45" points="-148.10001,454.75629 -148.10001,435.85629 209.10001,435.85629 209.10001,454.75629 "/>
+<rect x="235.10001" y="436.05627" class="st2" width="3.89999" height="18.60001"/>
+<rect x="228.60001" y="436.05627" class="st2" width="6.39999" height="18.60001"/>
+<rect x="222.2" y="436.05627" class="st2" width="6.39999" height="18.60001"/>
+<rect x="215.8" y="436.05627" class="st2" width="6.39999" height="18.60001"/>
+<line class="st3" x1="493.10001" y1="456.15628" x2="493.29999" y2="434.95627"/>
+<line class="st3" x1="423.10001" y1="456.15628" x2="423.20001" y2="434.95627"/>
+<line class="st3" x1="353" y1="456.15628" x2="353.20001" y2="434.95627"/>
+<line class="st3" x1="284.5" y1="456.15628" x2="284.5" y2="434.65628"/>
+<rect x="141.89999" y="436.05627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="148.3" y="436.05627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="154.8" y="436.05627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="161.2" y="436.05627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="167.60001" y="436.05627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="176.89999" y="436.05627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="183.3" y="436.05627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="189.8" y="436.05627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="196.2" y="436.05627" class="st4" width="6.39999" height="18.60001"/>
+<rect x="202.7" y="436.05627" class="st4" width="6.39999" height="18.60001"/>
+<line class="st3" x1="-68.3" y1="456.15628" x2="-68.3" y2="434.95627"/>
+<line class="st3" x1="1.8" y1="456.15628" x2="1.8" y2="434.95627"/>
+<line class="st3" x1="71.8" y1="456.15628" x2="71.8" y2="434.95627"/>
+<line class="st3" x1="140.5" y1="456.15628" x2="140.5" y2="434.95627"/>
+<linearGradient id="SVGID_41_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="387.51645" x2="421.328" y2="387.51645" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st46" points="215.8,474.85629 215.8,455.95627 572.90002,455.95627 572.90002,474.85629 "/>
+<linearGradient id="SVGID_42_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="387.51645" x2="3.2009" y2="387.51645" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st47" points="-148.10001,474.85629 -148.10001,455.95627 209.10001,455.95627 209.10001,474.85629 "/>
+<rect x="235.10001" y="456.15628" class="st2" width="1.89999" height="18.60001"/>
+<rect x="228.60001" y="456.15628" class="st2" width="6.39999" height="18.60001"/>
+<rect x="222.2" y="456.15628" class="st2" width="6.39999" height="18.60001"/>
+<rect x="215.8" y="456.15628" class="st2" width="6.39999" height="18.60001"/>
+<line class="st3" x1="493.10001" y1="476.25629" x2="493.29999" y2="455.05627"/>
+<line class="st3" x1="423.10001" y1="476.25629" x2="423.20001" y2="455.05627"/>
+<line class="st3" x1="353" y1="476.25629" x2="353.20001" y2="455.05627"/>
+<line class="st3" x1="284.5" y1="476.25629" x2="284.5" y2="454.75629"/>
+<rect x="138" y="456.15628" class="st4" width="1" height="18.60001"/>
+<rect x="141.89999" y="456.15628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="148.3" y="456.15628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="154.8" y="456.15628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="161.2" y="456.15628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="167.60001" y="456.15628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="176.89999" y="456.15628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="183.3" y="456.15628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="189.8" y="456.15628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="196.2" y="456.15628" class="st4" width="6.39999" height="18.60001"/>
+<rect x="202.7" y="456.15628" class="st4" width="6.39999" height="18.60001"/>
+<line class="st3" x1="-68.3" y1="476.25629" x2="-68.3" y2="455.05627"/>
+<line class="st3" x1="1.8" y1="476.25629" x2="1.8" y2="455.05627"/>
+<line class="st3" x1="71.8" y1="476.25629" x2="71.8" y2="455.05627"/>
+<line class="st3" x1="140.5" y1="476.25629" x2="140.5" y2="455.05627"/>
+<g>
+	<text transform="matrix(1 0 0 1 9.95541 471.00107)" class="st7 st6">2000</text>
+</g>
+<linearGradient id="SVGID_43_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="407.61646" x2="421.328" y2="407.61646" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st48" points="215.8,494.95627 215.8,476.05627 572.90002,476.05627 572.90002,494.95627 "/>
+<linearGradient id="SVGID_44_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="407.61646" x2="3.2009" y2="407.61646" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st49" points="-148.10001,494.95627 -148.10001,476.05627 209.10001,476.05627 209.10001,494.95627 "/>
+<rect x="235.10001" y="476.25629" class="st2" width="2.7" height="18.60001"/>
+<rect x="228.60001" y="476.25629" class="st2" width="6.39999" height="18.60001"/>
+<rect x="222.2" y="476.25629" class="st2" width="6.39999" height="18.60001"/>
+<rect x="215.8" y="476.25629" class="st2" width="6.39999" height="18.60001"/>
+<line class="st3" x1="493.10001" y1="496.35629" x2="493.29999" y2="475.15628"/>
+<line class="st3" x1="423.10001" y1="496.35629" x2="423.20001" y2="475.15628"/>
+<line class="st3" x1="353" y1="496.35629" x2="353.20001" y2="475.15628"/>
+<line class="st3" x1="284.5" y1="496.35629" x2="284.5" y2="474.85629"/>
+<rect x="136.39999" y="476.25629" class="st4" width="2.60001" height="18.60001"/>
+<rect x="141.89999" y="476.25629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="148.3" y="476.25629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="154.8" y="476.25629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="161.2" y="476.25629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="167.60001" y="476.25629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="176.89999" y="476.25629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="183.3" y="476.25629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="189.8" y="476.25629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="196.2" y="476.25629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="202.7" y="476.25629" class="st4" width="6.39999" height="18.60001"/>
+<line class="st3" x1="-68.3" y1="496.35629" x2="-68.3" y2="475.15628"/>
+<line class="st3" x1="1.8" y1="496.35629" x2="1.8" y2="475.15628"/>
+<line class="st3" x1="71.8" y1="496.35629" x2="71.8" y2="475.15628"/>
+<line class="st3" x1="140.5" y1="496.35629" x2="140.5" y2="475.15628"/>
+<linearGradient id="SVGID_45_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="427.76642" x2="421.328" y2="427.76642" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st50" points="215.8,515.15625 215.8,496.15628 572.90002,496.15628 572.90002,515.15625 "/>
+<linearGradient id="SVGID_46_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="427.76645" x2="3.2009" y2="427.76645" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st51" points="-148.10001,515.15625 -148.10001,496.15628 209.10001,496.15628 209.10001,515.15625 "/>
+<rect x="235.10001" y="496.35629" class="st2" width="1.3" height="18.60001"/>
+<rect x="228.60001" y="496.35629" class="st2" width="6.39999" height="18.60001"/>
+<rect x="222.2" y="496.35629" class="st2" width="6.39999" height="18.60001"/>
+<rect x="215.8" y="496.35629" class="st2" width="6.39999" height="18.60001"/>
+<line class="st3" x1="493.10001" y1="516.45624" x2="493.29999" y2="495.25629"/>
+<line class="st3" x1="423.10001" y1="516.45624" x2="423.20001" y2="495.25629"/>
+<line class="st3" x1="353" y1="516.45624" x2="353.20001" y2="495.25629"/>
+<line class="st3" x1="284.5" y1="516.45624" x2="284.5" y2="495.05627"/>
+<rect x="135.8" y="496.35629" class="st4" width="3.2" height="18.60001"/>
+<rect x="141.89999" y="496.35629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="148.3" y="496.35629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="154.8" y="496.35629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="161.2" y="496.35629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="167.60001" y="496.35629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="176.89999" y="496.35629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="183.3" y="496.35629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="189.8" y="496.35629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="196.2" y="496.35629" class="st4" width="6.39999" height="18.60001"/>
+<rect x="202.7" y="496.35629" class="st4" width="6.39999" height="18.60001"/>
+<line class="st3" x1="-68.3" y1="516.45624" x2="-68.3" y2="495.25629"/>
+<line class="st3" x1="1.8" y1="516.45624" x2="1.8" y2="495.25629"/>
+<line class="st3" x1="71.8" y1="516.45624" x2="71.8" y2="495.25629"/>
+<line class="st3" x1="140.5" y1="516.45624" x2="140.5" y2="495.25629"/>
+<linearGradient id="SVGID_47_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="447.86639" x2="421.328" y2="447.86639" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st52" points="215.8,535.25623 215.8,516.25623 572.90002,516.25623 572.90002,535.25623 "/>
+<linearGradient id="SVGID_48_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="447.86639" x2="3.2009" y2="447.86639" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st53" points="-148.10001,535.25623 -148.10001,516.25623 209.10001,516.25623 209.10001,535.25623 "/>
+<rect x="228.60001" y="516.45624" class="st2" width="6.39999" height="18.59998"/>
+<rect x="222.2" y="516.45624" class="st2" width="6.39999" height="18.59998"/>
+<rect x="215.8" y="516.45624" class="st2" width="6.39999" height="18.59998"/>
+<line class="st3" x1="493.10001" y1="536.55627" x2="493.29999" y2="515.45624"/>
+<line class="st3" x1="423.10001" y1="536.55627" x2="423.20001" y2="515.45624"/>
+<line class="st3" x1="353" y1="536.55627" x2="353.20001" y2="515.45624"/>
+<line class="st3" x1="284.5" y1="536.55627" x2="284.5" y2="515.15625"/>
+<rect x="134.89999" y="516.45624" class="st4" width="4.10001" height="18.59998"/>
+<rect x="141.89999" y="516.45624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="148.3" y="516.45624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="154.8" y="516.45624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="161.2" y="516.45624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="167.60001" y="516.45624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="176.89999" y="516.45624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="183.3" y="516.45624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="189.8" y="516.45624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="196.2" y="516.45624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="202.7" y="516.45624" class="st4" width="6.39999" height="18.59998"/>
+<line class="st3" x1="-68.3" y1="536.55627" x2="-68.3" y2="515.45624"/>
+<line class="st3" x1="1.8" y1="536.55627" x2="1.8" y2="515.45624"/>
+<line class="st3" x1="71.8" y1="536.55627" x2="71.8" y2="515.45624"/>
+<line class="st3" x1="140.5" y1="536.55627" x2="140.5" y2="515.45624"/>
+<linearGradient id="SVGID_49_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="467.96643" x2="421.328" y2="467.96643" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st54" points="215.8,555.35626 215.8,536.35626 572.90002,536.35626 572.90002,555.35626 "/>
+<linearGradient id="SVGID_50_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="467.96643" x2="3.2009" y2="467.96643" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st55" points="-148.10001,555.35626 -148.10001,536.35626 209.10001,536.35626 209.10001,555.35626 "/>
+<rect x="235.10001" y="536.55627" class="st2" width="3.8" height="18.59998"/>
+<rect x="228.60001" y="536.55627" class="st2" width="6.39999" height="18.59998"/>
+<rect x="222.2" y="536.55627" class="st2" width="6.39999" height="18.59998"/>
+<rect x="215.8" y="536.55627" class="st2" width="6.39999" height="18.59998"/>
+<line class="st3" x1="493.10001" y1="556.65625" x2="493.29999" y2="535.55627"/>
+<line class="st3" x1="423.10001" y1="556.65625" x2="423.20001" y2="535.55627"/>
+<line class="st3" x1="353" y1="556.65625" x2="353.20001" y2="535.55627"/>
+<line class="st3" x1="284.5" y1="556.65625" x2="284.5" y2="535.25623"/>
+<rect x="135.60001" y="536.55627" class="st4" width="3.5" height="18.59998"/>
+<rect x="141.89999" y="536.55627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="148.3" y="536.55627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="154.8" y="536.55627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="161.2" y="536.55627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="167.60001" y="536.55627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="176.89999" y="536.55627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="183.3" y="536.55627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="189.8" y="536.55627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="196.2" y="536.55627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="202.7" y="536.55627" class="st4" width="6.39999" height="18.59998"/>
+<line class="st3" x1="-68.3" y1="556.65625" x2="-68.3" y2="535.55627"/>
+<line class="st3" x1="1.8" y1="556.65625" x2="1.8" y2="535.55627"/>
+<line class="st3" x1="71.8" y1="556.65625" x2="71.8" y2="535.55627"/>
+<line class="st3" x1="140.5" y1="556.65625" x2="140.5" y2="535.55627"/>
+<linearGradient id="SVGID_51_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="488.06641" x2="421.328" y2="488.06641" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st56" points="215.8,575.45624 215.8,556.45624 572.90002,556.45624 572.90002,575.45624 "/>
+<linearGradient id="SVGID_52_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="488.06641" x2="3.2009" y2="488.06641" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st57" points="-148.10001,575.45624 -148.10001,556.45624 209.10001,556.45624 209.10001,575.45624 "/>
+<rect x="235.10001" y="556.65625" class="st2" width="3.8" height="18.59998"/>
+<rect x="228.60001" y="556.65625" class="st2" width="6.39999" height="18.59998"/>
+<rect x="222.2" y="556.65625" class="st2" width="6.39999" height="18.59998"/>
+<rect x="215.8" y="556.65625" class="st2" width="6.39999" height="18.59998"/>
+<line class="st3" x1="493.10001" y1="576.75623" x2="493.29999" y2="555.65625"/>
+<line class="st3" x1="423.10001" y1="576.75623" x2="423.20001" y2="555.65625"/>
+<line class="st3" x1="353" y1="576.75623" x2="353.20001" y2="555.65625"/>
+<line class="st3" x1="284.5" y1="576.75623" x2="284.5" y2="555.35626"/>
+<rect x="137.7" y="556.65625" class="st4" width="1.3" height="18.59998"/>
+<rect x="141.89999" y="556.65625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="148.3" y="556.65625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="154.8" y="556.65625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="161.2" y="556.65625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="167.60001" y="556.65625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="176.89999" y="556.65625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="183.3" y="556.65625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="189.8" y="556.65625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="196.2" y="556.65625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="202.7" y="556.65625" class="st4" width="6.39999" height="18.59998"/>
+<line class="st3" x1="-68.3" y1="576.75623" x2="-68.3" y2="555.65625"/>
+<line class="st3" x1="1.8" y1="576.75623" x2="1.8" y2="555.65625"/>
+<line class="st3" x1="71.8" y1="576.75623" x2="71.8" y2="555.65625"/>
+<line class="st3" x1="140.5" y1="576.75623" x2="140.5" y2="555.65625"/>
+<g>
+	<text transform="matrix(1 0 0 1 9.95541 571.53674)" class="st7 st6">2005</text>
+</g>
+<linearGradient id="SVGID_53_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="508.16644" x2="421.328" y2="508.16644" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st58" points="215.8,595.55627 215.8,576.55627 572.90002,576.55627 572.90002,595.55627 "/>
+<linearGradient id="SVGID_54_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="508.16644" x2="3.2009" y2="508.16644" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st59" points="-148.10001,595.55627 -148.10001,576.55627 209.10001,576.55627 209.10001,595.55627 "/>
+<rect x="235.10001" y="576.75623" class="st2" width="3.8" height="18.59998"/>
+<rect x="228.60001" y="576.75623" class="st2" width="6.39999" height="18.59998"/>
+<rect x="222.2" y="576.75623" class="st2" width="6.39999" height="18.59998"/>
+<rect x="215.8" y="576.75623" class="st2" width="6.39999" height="18.59998"/>
+<line class="st3" x1="493.10001" y1="596.85626" x2="493.29999" y2="575.75623"/>
+<line class="st3" x1="423.10001" y1="596.85626" x2="423.20001" y2="575.75623"/>
+<line class="st3" x1="353" y1="596.85626" x2="353.20001" y2="575.75623"/>
+<line class="st3" x1="284.5" y1="596.85626" x2="284.5" y2="575.45624"/>
+<rect x="143.3" y="576.75623" class="st4" width="5" height="18.59998"/>
+<rect x="148.3" y="576.75623" class="st4" width="6.39999" height="18.59998"/>
+<rect x="154.8" y="576.75623" class="st4" width="6.39999" height="18.59998"/>
+<rect x="161.2" y="576.75623" class="st4" width="6.39999" height="18.59998"/>
+<rect x="167.60001" y="576.75623" class="st4" width="6.39999" height="18.59998"/>
+<rect x="176.89999" y="576.75623" class="st4" width="6.39999" height="18.59998"/>
+<rect x="183.3" y="576.75623" class="st4" width="6.39999" height="18.59998"/>
+<rect x="189.8" y="576.75623" class="st4" width="6.39999" height="18.59998"/>
+<rect x="196.2" y="576.75623" class="st4" width="6.39999" height="18.59998"/>
+<rect x="202.7" y="576.75623" class="st4" width="6.39999" height="18.59998"/>
+<line class="st3" x1="-68.3" y1="596.85626" x2="-68.3" y2="575.75623"/>
+<line class="st3" x1="1.8" y1="596.85626" x2="1.8" y2="575.75623"/>
+<line class="st3" x1="71.8" y1="596.85626" x2="71.8" y2="575.75623"/>
+<line class="st3" x1="140.5" y1="596.85626" x2="140.5" y2="575.75623"/>
+<linearGradient id="SVGID_55_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="528.31641" x2="421.328" y2="528.31641" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st60" points="215.8,615.65625 215.8,596.75623 572.90002,596.75623 572.90002,615.65625 "/>
+<linearGradient id="SVGID_56_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="528.31641" x2="3.2009" y2="528.31641" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st61" points="-148.10001,615.65625 -148.10001,596.75623 209.10001,596.75623 209.10001,615.65625 "/>
+<rect x="235.10001" y="596.85626" class="st2" width="2.60001" height="18.59998"/>
+<rect x="228.60001" y="596.85626" class="st2" width="6.39999" height="18.59998"/>
+<rect x="222.2" y="596.85626" class="st2" width="6.39999" height="18.59998"/>
+<rect x="215.8" y="596.85626" class="st2" width="6.39999" height="18.59998"/>
+<line class="st3" x1="493.10001" y1="616.95624" x2="493.29999" y2="595.85626"/>
+<line class="st3" x1="423.10001" y1="616.95624" x2="423.20001" y2="595.85626"/>
+<line class="st3" x1="353" y1="616.95624" x2="353.20001" y2="595.85626"/>
+<line class="st3" x1="284.5" y1="616.95624" x2="284.5" y2="595.55627"/>
+<rect x="145.10001" y="596.85626" class="st4" width="3.2" height="18.59998"/>
+<rect x="148.3" y="596.85626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="154.8" y="596.85626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="161.2" y="596.85626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="167.60001" y="596.85626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="176.89999" y="596.85626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="183.3" y="596.85626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="189.8" y="596.85626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="196.2" y="596.85626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="202.7" y="596.85626" class="st4" width="6.39999" height="18.59998"/>
+<line class="st3" x1="-68.3" y1="616.95624" x2="-68.3" y2="595.85626"/>
+<line class="st3" x1="1.8" y1="616.95624" x2="1.8" y2="595.85626"/>
+<line class="st3" x1="71.8" y1="616.95624" x2="71.8" y2="595.85626"/>
+<line class="st3" x1="140.5" y1="616.95624" x2="140.5" y2="595.85626"/>
+<linearGradient id="SVGID_57_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="548.41638" x2="421.328" y2="548.41638" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st62" points="215.8,635.75623 215.8,616.85626 572.90002,616.85626 572.90002,635.75623 "/>
+<linearGradient id="SVGID_58_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="548.41638" x2="3.2009" y2="548.41638" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st63" points="-148.10001,635.75623 -148.10001,616.85626 209.10001,616.85626 209.10001,635.75623 "/>
+<rect x="235.10001" y="616.95624" class="st2" width="5.39999" height="18.59998"/>
+<rect x="228.60001" y="616.95624" class="st2" width="6.39999" height="18.59998"/>
+<rect x="222.2" y="616.95624" class="st2" width="6.39999" height="18.59998"/>
+<rect x="215.8" y="616.95624" class="st2" width="6.39999" height="18.59998"/>
+<line class="st3" x1="493.10001" y1="637.05627" x2="493.29999" y2="615.95624"/>
+<line class="st3" x1="423.10001" y1="637.05627" x2="423.20001" y2="615.95624"/>
+<line class="st3" x1="353" y1="637.05627" x2="353.20001" y2="615.95624"/>
+<line class="st3" x1="284.5" y1="637.05627" x2="284.5" y2="615.65625"/>
+<rect x="143.3" y="616.95624" class="st4" width="5" height="18.59998"/>
+<rect x="148.3" y="616.95624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="154.8" y="616.95624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="161.2" y="616.95624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="167.60001" y="616.95624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="176.89999" y="616.95624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="183.3" y="616.95624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="189.8" y="616.95624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="196.2" y="616.95624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="202.7" y="616.95624" class="st4" width="6.39999" height="18.59998"/>
+<line class="st3" x1="-68.3" y1="637.05627" x2="-68.3" y2="615.95624"/>
+<line class="st3" x1="1.8" y1="637.05627" x2="1.8" y2="615.95624"/>
+<line class="st3" x1="71.8" y1="637.05627" x2="71.8" y2="615.95624"/>
+<line class="st3" x1="140.5" y1="637.05627" x2="140.5" y2="615.95624"/>
+<linearGradient id="SVGID_59_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="568.51642" x2="421.328" y2="568.51642" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st64" points="215.8,655.85626 215.8,636.95624 572.90002,636.95624 572.90002,655.85626 "/>
+<linearGradient id="SVGID_60_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="568.51642" x2="3.2009" y2="568.51642" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st65" points="-148.10001,655.85626 -148.10001,636.95624 209.10001,636.95624 209.10001,655.85626 "/>
+<rect x="235.10001" y="637.05627" class="st2" width="5.39999" height="18.59998"/>
+<rect x="228.60001" y="637.05627" class="st2" width="6.39999" height="18.59998"/>
+<rect x="222.2" y="637.05627" class="st2" width="6.39999" height="18.59998"/>
+<rect x="215.8" y="637.05627" class="st2" width="6.39999" height="18.59998"/>
+<line class="st3" x1="493.10001" y1="657.15625" x2="493.29999" y2="636.05627"/>
+<line class="st3" x1="423.10001" y1="657.15625" x2="423.20001" y2="636.05627"/>
+<line class="st3" x1="353" y1="657.15625" x2="353.20001" y2="636.05627"/>
+<line class="st3" x1="284.5" y1="657.15625" x2="284.5" y2="635.75623"/>
+<rect x="137.89999" y="637.05627" class="st4" width="1.2" height="18.59998"/>
+<rect x="141.89999" y="637.05627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="148.3" y="637.05627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="154.8" y="637.05627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="161.2" y="637.05627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="167.60001" y="637.05627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="176.89999" y="637.05627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="183.3" y="637.05627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="189.8" y="637.05627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="196.2" y="637.05627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="202.7" y="637.05627" class="st4" width="6.39999" height="18.59998"/>
+<line class="st3" x1="-68.3" y1="657.15625" x2="-68.3" y2="636.05627"/>
+<line class="st3" x1="1.8" y1="657.15625" x2="1.8" y2="636.05627"/>
+<line class="st3" x1="71.8" y1="657.15625" x2="71.8" y2="636.05627"/>
+<line class="st3" x1="140.5" y1="657.15625" x2="140.5" y2="636.05627"/>
+<linearGradient id="SVGID_61_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="588.61646" x2="421.328" y2="588.61646" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st66" points="215.8,675.95624 215.8,657.05627 572.90002,657.05627 572.90002,675.95624 "/>
+<linearGradient id="SVGID_62_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="588.61646" x2="3.2009" y2="588.61646" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st67" points="-148.10001,675.95624 -148.10001,657.05627 209.10001,657.05627 209.10001,675.95624 "/>
+<rect x="241.5" y="657.15625" class="st2" width="0.89999" height="18.59998"/>
+<rect x="235.10001" y="657.15625" class="st2" width="6.39999" height="18.59998"/>
+<rect x="228.60001" y="657.15625" class="st2" width="6.39999" height="18.59998"/>
+<rect x="222.2" y="657.15625" class="st2" width="6.39999" height="18.59998"/>
+<rect x="215.8" y="657.15625" class="st2" width="6.39999" height="18.59998"/>
+<line class="st3" x1="493.10001" y1="677.35626" x2="493.29999" y2="656.15625"/>
+<line class="st3" x1="423.10001" y1="677.35626" x2="423.20001" y2="656.15625"/>
+<line class="st3" x1="353" y1="677.35626" x2="353.20001" y2="656.15625"/>
+<line class="st3" x1="284.5" y1="677.35626" x2="284.5" y2="655.85626"/>
+<rect x="135" y="657.15625" class="st4" width="4" height="18.59998"/>
+<rect x="141.89999" y="657.15625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="148.3" y="657.15625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="154.8" y="657.15625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="161.2" y="657.15625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="167.60001" y="657.15625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="176.89999" y="657.15625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="183.3" y="657.15625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="189.8" y="657.15625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="196.2" y="657.15625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="202.7" y="657.15625" class="st4" width="6.39999" height="18.59998"/>
+<line class="st3" x1="-68.3" y1="677.35626" x2="-68.3" y2="656.15625"/>
+<line class="st3" x1="1.8" y1="677.35626" x2="1.8" y2="656.15625"/>
+<line class="st3" x1="71.8" y1="677.35626" x2="71.8" y2="656.15625"/>
+<line class="st3" x1="140.5" y1="677.35626" x2="140.5" y2="656.15625"/>
+<g>
+	<text transform="matrix(1 0 0 1 9.95541 672.07263)" class="st7 st6">2010</text>
+</g>
+<linearGradient id="SVGID_63_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="608.71643" x2="421.328" y2="608.71643" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st68" points="215.8,696.05627 215.8,677.15625 572.90002,677.15625 572.90002,696.05627 "/>
+<linearGradient id="SVGID_64_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="608.71643" x2="3.2009" y2="608.71643" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st69" points="-148.10001,696.05627 -148.10001,677.15625 209.10001,677.15625 209.10001,696.05627 "/>
+<rect x="241.5" y="677.35626" class="st2" width="4.8" height="18.59998"/>
+<rect x="235.10001" y="677.35626" class="st2" width="6.39999" height="18.59998"/>
+<rect x="228.60001" y="677.35626" class="st2" width="6.39999" height="18.59998"/>
+<rect x="222.2" y="677.35626" class="st2" width="6.39999" height="18.59998"/>
+<rect x="215.8" y="677.35626" class="st2" width="6.39999" height="18.59998"/>
+<line class="st3" x1="493.10001" y1="697.45624" x2="493.29999" y2="676.25623"/>
+<line class="st3" x1="423.10001" y1="697.45624" x2="423.20001" y2="676.25623"/>
+<line class="st3" x1="353" y1="697.45624" x2="353.20001" y2="676.25623"/>
+<line class="st3" x1="284.5" y1="697.45624" x2="284.5" y2="675.95624"/>
+<rect x="131" y="677.35626" class="st4" width="1.60001" height="18.59998"/>
+<rect x="132.60001" y="677.35626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="141.89999" y="677.35626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="148.3" y="677.35626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="154.8" y="677.35626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="161.2" y="677.35626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="167.60001" y="677.35626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="176.89999" y="677.35626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="183.3" y="677.35626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="189.8" y="677.35626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="196.2" y="677.35626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="202.7" y="677.35626" class="st4" width="6.39999" height="18.59998"/>
+<line class="st3" x1="-68.3" y1="697.45624" x2="-68.3" y2="676.25623"/>
+<line class="st3" x1="1.8" y1="697.45624" x2="1.8" y2="676.25623"/>
+<line class="st3" x1="71.8" y1="697.45624" x2="71.8" y2="676.25623"/>
+<line class="st3" x1="140.5" y1="697.45624" x2="140.5" y2="676.25623"/>
+<linearGradient id="SVGID_65_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="628.81641" x2="421.328" y2="628.81641" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st70" points="215.8,716.15625 215.8,697.25623 572.90002,697.25623 572.90002,716.15625 "/>
+<linearGradient id="SVGID_66_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="628.81641" x2="3.2009" y2="628.81641" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st71" points="-148.10001,716.15625 -148.10001,697.25623 209.10001,697.25623 209.10001,716.15625 "/>
+<rect x="241.5" y="697.45624" class="st2" width="6.39999" height="18.59998"/>
+<rect x="235.10001" y="697.45624" class="st2" width="6.39999" height="18.59998"/>
+<rect x="228.60001" y="697.45624" class="st2" width="6.39999" height="18.59998"/>
+<rect x="222.2" y="697.45624" class="st2" width="6.39999" height="18.59998"/>
+<rect x="215.8" y="697.45624" class="st2" width="6.39999" height="18.59998"/>
+<line class="st3" x1="493.10001" y1="717.55627" x2="493.29999" y2="696.35626"/>
+<line class="st3" x1="423.10001" y1="717.55627" x2="423.20001" y2="696.35626"/>
+<line class="st3" x1="353" y1="717.55627" x2="353.20001" y2="696.35626"/>
+<line class="st3" x1="284.5" y1="717.55627" x2="284.5" y2="696.05627"/>
+<rect x="124.5" y="697.45624" class="st4" width="1.7" height="18.59998"/>
+<rect x="126.2" y="697.45624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="132.60001" y="697.45624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="141.89999" y="697.45624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="148.3" y="697.45624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="154.8" y="697.45624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="161.2" y="697.45624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="167.60001" y="697.45624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="176.89999" y="697.45624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="183.3" y="697.45624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="189.8" y="697.45624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="196.2" y="697.45624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="202.7" y="697.45624" class="st4" width="6.39999" height="18.59998"/>
+<line class="st3" x1="-68.3" y1="717.55627" x2="-68.3" y2="696.35626"/>
+<line class="st3" x1="1.8" y1="717.55627" x2="1.8" y2="696.35626"/>
+<line class="st3" x1="71.8" y1="717.55627" x2="71.8" y2="696.35626"/>
+<line class="st3" x1="140.5" y1="717.55627" x2="140.5" y2="696.35626"/>
+<linearGradient id="SVGID_67_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="648.91638" x2="421.328" y2="648.91638" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st72" points="215.8,736.25623 215.8,717.35626 572.90002,717.35626 572.90002,736.25623 "/>
+<linearGradient id="SVGID_68_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="648.91638" x2="3.2009" y2="648.91638" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st73" points="-148.10001,736.25623 -148.10001,717.35626 209.10001,717.35626 209.10001,736.25623 "/>
+<rect x="250.8" y="717.55627" class="st2" width="2.7" height="18.59998"/>
+<rect x="241.5" y="717.55627" class="st2" width="6.39999" height="18.59998"/>
+<rect x="235.10001" y="717.55627" class="st2" width="6.39999" height="18.59998"/>
+<rect x="228.60001" y="717.55627" class="st2" width="6.39999" height="18.59998"/>
+<rect x="222.2" y="717.55627" class="st2" width="6.39999" height="18.59998"/>
+<rect x="215.8" y="717.55627" class="st2" width="6.39999" height="18.59998"/>
+<line class="st3" x1="493.10001" y1="737.65625" x2="493.29999" y2="716.45624"/>
+<line class="st3" x1="423.10001" y1="737.65625" x2="423.20001" y2="716.45624"/>
+<line class="st3" x1="353" y1="737.65625" x2="353.20001" y2="716.45624"/>
+<line class="st3" x1="284.5" y1="737.65625" x2="284.5" y2="716.15625"/>
+<rect x="123.9" y="717.55627" class="st4" width="2.3" height="18.59998"/>
+<rect x="126.2" y="717.55627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="132.60001" y="717.55627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="141.89999" y="717.55627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="148.3" y="717.55627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="154.8" y="717.55627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="161.2" y="717.55627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="167.60001" y="717.55627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="176.89999" y="717.55627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="183.3" y="717.55627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="189.8" y="717.55627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="196.2" y="717.55627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="202.7" y="717.55627" class="st4" width="6.39999" height="18.59998"/>
+<line class="st3" x1="-68.3" y1="737.65625" x2="-68.3" y2="716.45624"/>
+<line class="st3" x1="1.8" y1="737.65625" x2="1.8" y2="716.45624"/>
+<line class="st3" x1="71.8" y1="737.65625" x2="71.8" y2="716.45624"/>
+<line class="st3" x1="140.5" y1="737.65625" x2="140.5" y2="716.45624"/>
+<linearGradient id="SVGID_69_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="669.01642" x2="421.328" y2="669.01642" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st74" points="215.8,756.35626 215.8,737.45624 572.90002,737.45624 572.90002,756.35626 "/>
+<linearGradient id="SVGID_70_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="669.01642" x2="3.2009" y2="669.01642" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st75" points="-148.10001,756.35626 -148.10001,737.45624 209.10001,737.45624 209.10001,756.35626 "/>
+<rect x="241.5" y="737.65625" class="st2" width="6.39999" height="18.59998"/>
+<rect x="235.10001" y="737.65625" class="st2" width="6.39999" height="18.59998"/>
+<rect x="228.60001" y="737.65625" class="st2" width="6.39999" height="18.59998"/>
+<rect x="222.2" y="737.65625" class="st2" width="6.39999" height="18.59998"/>
+<rect x="215.8" y="737.65625" class="st2" width="6.39999" height="18.59998"/>
+<line class="st3" x1="493.10001" y1="757.75623" x2="493.29999" y2="736.55627"/>
+<line class="st3" x1="423.10001" y1="757.75623" x2="423.20001" y2="736.55627"/>
+<line class="st3" x1="353" y1="757.75623" x2="353.20001" y2="736.55627"/>
+<line class="st3" x1="284.5" y1="757.75623" x2="284.5" y2="736.25623"/>
+<rect x="127.2" y="737.65625" class="st4" width="5.39999" height="18.59998"/>
+<rect x="132.60001" y="737.65625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="141.89999" y="737.65625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="148.3" y="737.65625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="154.8" y="737.65625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="161.2" y="737.65625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="167.60001" y="737.65625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="176.89999" y="737.65625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="183.3" y="737.65625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="189.8" y="737.65625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="196.2" y="737.65625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="202.7" y="737.65625" class="st4" width="6.39999" height="18.59998"/>
+<line class="st3" x1="-68.3" y1="757.75623" x2="-68.3" y2="736.55627"/>
+<line class="st3" x1="1.8" y1="757.75623" x2="1.8" y2="736.55627"/>
+<line class="st3" x1="71.8" y1="757.75623" x2="71.8" y2="736.55627"/>
+<line class="st3" x1="140.5" y1="757.75623" x2="140.5" y2="736.55627"/>
+<linearGradient id="SVGID_71_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="689.11646" x2="421.328" y2="689.11646" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st76" points="215.8,776.45624 215.8,757.55627 572.90002,757.55627 572.90002,776.45624 "/>
+<linearGradient id="SVGID_72_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="689.11646" x2="3.2009" y2="689.11646" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st77" points="-148.10001,776.45624 -148.10001,757.55627 209.10001,757.55627 209.10001,776.45624 "/>
+<rect x="241.5" y="757.75623" class="st2" width="3.89999" height="18.59998"/>
+<rect x="235.10001" y="757.75623" class="st2" width="6.39999" height="18.59998"/>
+<rect x="228.60001" y="757.75623" class="st2" width="6.39999" height="18.59998"/>
+<rect x="222.2" y="757.75623" class="st2" width="6.39999" height="18.59998"/>
+<rect x="215.8" y="757.75623" class="st2" width="6.39999" height="18.59998"/>
+<line class="st3" x1="493.10001" y1="777.85626" x2="493.29999" y2="756.65625"/>
+<line class="st3" x1="423.10001" y1="777.85626" x2="423.20001" y2="756.65625"/>
+<line class="st3" x1="353" y1="777.85626" x2="353.20001" y2="756.65625"/>
+<line class="st3" x1="284.5" y1="777.85626" x2="284.5" y2="756.35626"/>
+<rect x="131" y="757.75623" class="st4" width="1.60001" height="18.59998"/>
+<rect x="132.60001" y="757.75623" class="st4" width="6.39999" height="18.59998"/>
+<rect x="141.89999" y="757.75623" class="st4" width="6.39999" height="18.59998"/>
+<rect x="148.3" y="757.75623" class="st4" width="6.39999" height="18.59998"/>
+<rect x="154.8" y="757.75623" class="st4" width="6.39999" height="18.59998"/>
+<rect x="161.2" y="757.75623" class="st4" width="6.39999" height="18.59998"/>
+<rect x="167.60001" y="757.75623" class="st4" width="6.39999" height="18.59998"/>
+<rect x="176.89999" y="757.75623" class="st4" width="6.39999" height="18.59998"/>
+<rect x="183.3" y="757.75623" class="st4" width="6.39999" height="18.59998"/>
+<rect x="189.8" y="757.75623" class="st4" width="6.39999" height="18.59998"/>
+<rect x="196.2" y="757.75623" class="st4" width="6.39999" height="18.59998"/>
+<rect x="202.7" y="757.75623" class="st4" width="6.39999" height="18.59998"/>
+<line class="st3" x1="-68.3" y1="777.85626" x2="-68.3" y2="756.65625"/>
+<line class="st3" x1="1.8" y1="777.85626" x2="1.8" y2="756.65625"/>
+<line class="st3" x1="71.8" y1="777.85626" x2="71.8" y2="756.65625"/>
+<line class="st3" x1="140.5" y1="777.85626" x2="140.5" y2="756.65625"/>
+<g>
+	<text transform="matrix(1 0 0 1 9.95541 772.60852)" class="st7 st6">2015</text>
+</g>
+<linearGradient id="SVGID_73_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="709.26642" x2="421.328" y2="709.26642" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st78" points="215.8,796.65625 215.8,777.65625 572.90002,777.65625 572.90002,796.65625 "/>
+<linearGradient id="SVGID_74_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="709.26642" x2="3.2009" y2="709.26642" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st79" points="-148.10001,796.65625 -148.10001,777.65625 209.10001,777.65625 209.10001,796.65625 "/>
+<rect x="241.5" y="777.85626" class="st2" width="1" height="18.59998"/>
+<rect x="235.10001" y="777.85626" class="st2" width="6.39999" height="18.59998"/>
+<rect x="228.60001" y="777.85626" class="st2" width="6.39999" height="18.59998"/>
+<rect x="222.2" y="777.85626" class="st2" width="6.39999" height="18.59998"/>
+<rect x="215.8" y="777.85626" class="st2" width="6.39999" height="18.59998"/>
+<line class="st3" x1="493.10001" y1="797.95624" x2="493.29999" y2="776.75623"/>
+<line class="st3" x1="423.10001" y1="797.95624" x2="423.20001" y2="776.75623"/>
+<line class="st3" x1="353" y1="797.95624" x2="353.20001" y2="776.75623"/>
+<line class="st3" x1="284.5" y1="797.95624" x2="284.5" y2="776.55627"/>
+<rect x="134.2" y="777.85626" class="st4" width="4.8" height="18.59998"/>
+<rect x="141.89999" y="777.85626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="148.3" y="777.85626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="154.8" y="777.85626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="161.2" y="777.85626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="167.60001" y="777.85626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="176.89999" y="777.85626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="183.3" y="777.85626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="189.8" y="777.85626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="196.2" y="777.85626" class="st4" width="6.39999" height="18.59998"/>
+<rect x="202.7" y="777.85626" class="st4" width="6.39999" height="18.59998"/>
+<line class="st3" x1="-68.3" y1="797.95624" x2="-68.3" y2="776.75623"/>
+<line class="st3" x1="1.8" y1="797.95624" x2="1.8" y2="776.75623"/>
+<line class="st3" x1="71.8" y1="797.95624" x2="71.8" y2="776.75623"/>
+<line class="st3" x1="140.5" y1="797.95624" x2="140.5" y2="776.75623"/>
+<linearGradient id="SVGID_75_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="729.36639" x2="421.328" y2="729.36639" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st80" points="215.8,816.75623 215.8,797.75623 572.90002,797.75623 572.90002,816.75623 "/>
+<linearGradient id="SVGID_76_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="729.36639" x2="3.2009" y2="729.36639" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st81" points="-148.10001,816.75623 -148.10001,797.75623 209.10001,797.75623 209.10001,816.75623 "/>
+<rect x="235.10001" y="797.95624" class="st2" width="6.39999" height="18.59998"/>
+<rect x="228.60001" y="797.95624" class="st2" width="6.39999" height="18.59998"/>
+<rect x="222.2" y="797.95624" class="st2" width="6.39999" height="18.59998"/>
+<rect x="215.8" y="797.95624" class="st2" width="6.39999" height="18.59998"/>
+<line class="st3" x1="493.10001" y1="818.05627" x2="493.29999" y2="796.95624"/>
+<line class="st3" x1="423.10001" y1="818.05627" x2="423.20001" y2="796.95624"/>
+<line class="st3" x1="353" y1="818.05627" x2="353.20001" y2="796.95624"/>
+<line class="st3" x1="284.5" y1="818.05627" x2="284.5" y2="796.65625"/>
+<rect x="135.8" y="797.95624" class="st4" width="3.2" height="18.59998"/>
+<rect x="141.89999" y="797.95624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="148.3" y="797.95624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="154.8" y="797.95624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="161.2" y="797.95624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="167.60001" y="797.95624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="176.89999" y="797.95624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="183.3" y="797.95624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="189.8" y="797.95624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="196.2" y="797.95624" class="st4" width="6.39999" height="18.59998"/>
+<rect x="202.7" y="797.95624" class="st4" width="6.39999" height="18.59998"/>
+<line class="st3" x1="-68.3" y1="818.05627" x2="-68.3" y2="796.95624"/>
+<line class="st3" x1="1.8" y1="818.05627" x2="1.8" y2="796.95624"/>
+<line class="st3" x1="71.8" y1="818.05627" x2="71.8" y2="796.95624"/>
+<line class="st3" x1="140.5" y1="818.05627" x2="140.5" y2="796.95624"/>
+<linearGradient id="SVGID_77_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="749.46643" x2="421.328" y2="749.46643" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st82" points="215.8,836.85626 215.8,817.85626 572.90002,817.85626 572.90002,836.85626 "/>
+<linearGradient id="SVGID_78_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="749.46643" x2="3.2009" y2="749.46643" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st83" points="-148.10001,836.85626 -148.10001,817.85626 209.10001,817.85626 209.10001,836.85626 "/>
+<rect x="235.10001" y="818.05627" class="st2" width="6.39999" height="18.59998"/>
+<rect x="228.60001" y="818.05627" class="st2" width="6.39999" height="18.59998"/>
+<rect x="222.2" y="818.05627" class="st2" width="6.39999" height="18.59998"/>
+<rect x="215.8" y="818.05627" class="st2" width="6.39999" height="18.59998"/>
+<line class="st3" x1="493.10001" y1="838.15625" x2="493.29999" y2="817.05627"/>
+<line class="st3" x1="423.10001" y1="838.15625" x2="423.20001" y2="817.05627"/>
+<line class="st3" x1="353" y1="838.15625" x2="353.20001" y2="817.05627"/>
+<line class="st3" x1="284.5" y1="838.15625" x2="284.5" y2="816.75623"/>
+<rect x="136.60001" y="818.05627" class="st4" width="2.39999" height="18.59998"/>
+<rect x="141.89999" y="818.05627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="148.3" y="818.05627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="154.8" y="818.05627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="161.2" y="818.05627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="167.60001" y="818.05627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="176.89999" y="818.05627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="183.3" y="818.05627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="189.8" y="818.05627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="196.2" y="818.05627" class="st4" width="6.39999" height="18.59998"/>
+<rect x="202.7" y="818.05627" class="st4" width="6.39999" height="18.59998"/>
+<line class="st3" x1="-68.3" y1="838.15625" x2="-68.3" y2="817.05627"/>
+<line class="st3" x1="1.8" y1="838.15625" x2="1.8" y2="817.05627"/>
+<line class="st3" x1="71.8" y1="838.15625" x2="71.8" y2="817.05627"/>
+<line class="st3" x1="140.5" y1="838.15625" x2="140.5" y2="817.05627"/>
+<linearGradient id="SVGID_79_" gradientUnits="userSpaceOnUse" x1="212.03709" y1="769.56641" x2="421.328" y2="769.56641" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st84" points="215.8,856.95624 215.8,837.95624 572.90002,837.95624 572.90002,856.95624 "/>
+<linearGradient id="SVGID_80_" gradientUnits="userSpaceOnUse" x1="212.9239" y1="769.56641" x2="3.2009" y2="769.56641" gradientTransform="matrix(1 0 0 1 0 77.88983)">
+	<stop  offset="0.6721" style="stop-color:#EBEBEB"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon class="st85" points="-148.10001,856.95624 -148.10001,837.95624 209.10001,837.95624 209.10001,856.95624 "/>
+<line class="st3" x1="493.10001" y1="858.25623" x2="493.29999" y2="837.15625"/>
+<line class="st3" x1="423.10001" y1="858.25623" x2="423.20001" y2="837.15625"/>
+<line class="st3" x1="353" y1="858.25623" x2="353.20001" y2="837.15625"/>
+<line class="st3" x1="284.5" y1="858.25623" x2="284.5" y2="836.85626"/>
+<rect x="145.89999" y="838.15625" class="st4" width="2.5" height="18.59998"/>
+<rect x="148.3" y="838.15625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="154.8" y="838.15625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="161.2" y="838.15625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="167.60001" y="838.15625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="176.89999" y="838.15625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="183.3" y="838.15625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="189.8" y="838.15625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="196.2" y="838.15625" class="st4" width="6.39999" height="18.59998"/>
+<rect x="202.7" y="838.15625" class="st4" width="6.39999" height="18.59998"/>
+<line class="st3" x1="-68.3" y1="858.25623" x2="-68.3" y2="837.15625"/>
+<line class="st3" x1="1.8" y1="858.25623" x2="1.8" y2="837.15625"/>
+<line class="st3" x1="71.8" y1="858.25623" x2="71.8" y2="837.15625"/>
+<line class="st3" x1="140.5" y1="858.25623" x2="140.5" y2="837.15625"/>
+<g>
+	<text transform="matrix(1 0 0 1 9.95541 853.03723)" class="st7 st6">2019</text>
+</g>
+<text transform="matrix(1 0 0 1 129.4093 43.65045)" class="st86 st87 st6">10%</text>
+<text transform="matrix(1 0 0 1 273.37439 43.65045)" class="st86 st87 st6">10%</text>
+<text transform="matrix(1 0 0 1 60.7486 43.65045)" class="st86 st87 st6">20%</text>
+<text transform="matrix(1 0 0 1 342.11658 43.65045)" class="st86 st87 st6">20%</text>
+<rect x="241.5" y="818.05627" class="st2" width="1" height="18.59998"/>
+<text transform="matrix(1 0 0 1 60.1731 68.55286)" class="st5 st6">15.9%</text>
+<text transform="matrix(1 0 0 1 263.24261 68.55286)" class="st5 st6">6.4%</text>
+<text transform="matrix(1 0 0 1 78.7002 229.05933)" class="st5 st6">13.2%</text>
+<text transform="matrix(1 0 0 1 259.61536 229.05933)" class="st5 st6">5.3%</text>
+<text transform="matrix(1 0 0 1 114.5253 350.99109)" class="st5 st6">9.2%</text>
+<text transform="matrix(1 0 0 1 238.39111 531.22827)" class="st5 st6">3%</text>
+<text transform="matrix(1 0 0 1 91.97668 531.22827)" class="st5 st6">10.7%</text>
+<text transform="matrix(1 0 0 1 249.6286 350.99109)" class="st5 st6">4.7%</text>
+<text transform="matrix(1 0 0 1 81.9881 731.86133)" class="st5 st6">12.3%</text>
+<text transform="matrix(1 0 0 1 95.2897 832.28864)" class="st5 st6">10.4%</text>
+<text transform="matrix(1 0 0 1 244.58948 832.28864)" class="st5 st6">4.1%</text>
+<text transform="matrix(1 0 0 1 262.10571 731.86133)" class="st5 st6">5.3%</text>
+</svg>

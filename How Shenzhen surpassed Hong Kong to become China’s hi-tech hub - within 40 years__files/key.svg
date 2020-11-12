@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 425 335" style="enable-background:new 0 0 425 335;" xml:space="preserve">
+<style type="text/css">
+    @import url('https://fonts.googleapis.com/css?family=Merriweather:100,300,400,500,600,700|Roboto:100,300,400,500,600,700');
+	.st0{font-family:'Roboto';font-weight:100;}
+	.st1{font-size:15px;}
+	.st2{fill:#BFE1DC;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st3{fill:#93CBD6;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st4{fill:#75BDD2;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st5{fill:#D9D9D9;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st6{fill:#0084C1;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st7{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st8{font-size:14px;}
+	.st9{font-family:'Roboto';font-weight:500;}
+</style>
+<g>
+	<text transform="matrix(1 0 0 1 131.39844 17.83197)" class="st0 st1">Percentage of GDP, 2018</text>
+</g>
+<g>
+	<g>
+		<g>
+			<g>
+				<path class="st2" d="M215.17435,181.67632l-81.18924-78.40356c21.95366-22.73367,49.58574-34.4628,81.18924-34.4628V181.67632z"
+					/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="st3" d="M215.17435,181.67632L102.9263,169.87857c2.73008-25.97502,12.91564-47.81803,31.05879-66.60581
+					L215.17435,181.67632z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="st4" d="M215.17435,181.67632l-107.93462,32.99893c-4.64732-15.20071-5.97494-28.98849-4.31342-44.79668
+					L215.17435,181.67632z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="st5" d="M215.17435,181.67632l94.65768,61.47142c-33.94971,52.27798-103.8511,67.13599-156.1291,33.18628
+					c-23.15915-15.03973-38.38961-35.25125-46.4632-61.65877L215.17435,181.67632z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path class="st6" d="M215.17435,181.67632V68.80996c62.33438,0,112.86636,50.53198,112.86636,112.86636
+					c0,23.12605-5.61331,42.07628-18.20868,61.47142L215.17435,181.67632z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<circle class="st7" cx="215.17435" cy="181.67632" r="59.21479"/>
+<g>
+	<text transform="matrix(1 0 0 1 306.55759 87.60095)" class="st0 st8">Hi-tech</text>
+</g>
+<text transform="matrix(1 0 0 1 306.55759 105.77991)" class="st9 st8">34.3%</text>
+<g>
+	<text transform="matrix(1 0 0 1 114.57343 53.88434)" class="st0 st8">Finance</text>
+</g>
+<text transform="matrix(1 0 0 1 124.84784 72.06323)" class="st9 st8">12.7%</text>
+<g>
+	<text transform="matrix(1 0 0 1 49.40068 185.7793)" class="st0 st8">Culture</text>
+	<text transform="matrix(1 0 0 1 51.36259 202.57959)" class="st0 st8">related</text>
+</g>
+<text transform="matrix(1 0 0 1 63.34601 220.85736)" class="st9 st8">6.4%</text>
+<g>
+	<text transform="matrix(1 0 0 1 167.13635 310.53918)" class="st0 st8">Others</text>
+</g>
+<text transform="matrix(1 0 0 1 169.76135 327.66003)" class="st9 st8">36.1%</text>
+<g>
+	<text transform="matrix(1 0 0 1 47.62975 116.40283)" class="st0 st8">Logistics</text>
+</g>
+<text transform="matrix(1 0 0 1 64.71277 134.58173)" class="st9 st8">10.5%</text>
+</svg>
